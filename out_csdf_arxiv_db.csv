@@ -1,0 +1,1981 @@
+,id,submitter,authors,title,comments,journal-ref,doi,report-no,categories,license,abstract,versions,update_date,authors_parsed
+330001,1203.4642,Soumya Sen,"Felix Ming Fai Wong, Soumya Sen, Mung Chiang",Why Watching Movie Tweets Won't Tell the Whole Story?,"6 pages, 4 figures",,,,cs.SI physics.soc-ph,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Data from Online Social Networks (OSNs) are providing analysts with an
+unprecedented access to public opinion on elections, news, movies etc. However,
+caution must be taken to determine whether and how much of the opinion
+extracted from OSN user data is indeed reflective of the opinion of the larger
+online population. In this work we study this issue in the context of movie
+reviews on Twitter and compare the opinion of Twitter users with that of the
+online population of IMDb and Rotten Tomatoes. We introduce new metrics to show
+that the Twitter users can be characteristically different from general users,
+both in their rating and their relative preference for Oscar-nominated and
+non-nominated movies. Additionally, we investigate whether such data can truly
+predict a movie's box-office success.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 02:50:30 GMT'}]",2015-03-20,"[['Wong', 'Felix Ming Fai', ''], ['Sen', 'Soumya', ''], ['Chiang', 'Mung', '']]"
+330008,1203.4649,Saravanan Kumarasamy,"K. Saravanan, L. Vijayanand and R. K. Negesh","A Novel Bluetooth Man-In-The-Middle Attack Based On SSP using OOB
+  Association model",,,,EMICS12,cs.CR,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  As an interconnection technology, Bluetooth has to address all traditional
+security problems, well known from the distributed networks. Moreover, as
+Bluetooth networks are formed by the radio links, there are also additional
+security aspects whose impact is yet not well understood. In this paper, we
+propose a novel Man-In-The-Middle (MITM) attack against Bluetooth enabled
+mobile phone that support Simple Secure Pairing(SSP). From the literature it
+was proved that the SSP association models such as Numeric comparison, Just
+works and passkey Entry are not more secure. Here we propose the Out Of Band
+(OOB) channeling with enhanced security than the previous methods.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 04:20:00 GMT'}]",2012-03-22,"[['Saravanan', 'K.', ''], ['Vijayanand', 'L.', ''], ['Negesh', 'R. K.', '']]"
+330026,1203.4667,Amaury Pouly,"Amaury Pouly, Olivier Bournez, Daniel S. Gra\c{c}a","Turing machines can be efficiently simulated by the General Purpose
+  Analog Computer",,,10.1007/978-3-642-38236-9_16,,cs.CC,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  The Church-Turing thesis states that any sufficiently powerful computational
+model which captures the notion of algorithm is computationally equivalent to
+the Turing machine. This equivalence usually holds both at a computability
+level and at a computational complexity level modulo polynomial reductions.
+However, the situation is less clear in what concerns models of computation
+using real numbers, and no analog of the Church-Turing thesis exists for this
+case. Recently it was shown that some models of computation with real numbers
+were equivalent from a computability perspective. In particular it was shown
+that Shannon's General Purpose Analog Computer (GPAC) is equivalent to
+Computable Analysis. However, little is known about what happens at a
+computational complexity level. In this paper we shed some light on the
+connections between this two models, from a computational complexity level, by
+showing that, modulo polynomial reductions, computations of Turing machines can
+be simulated by GPACs, without the need of using more (space) resources than
+those used in the original Turing computation, as long as we are talking about
+bounded computations. In other words, computations done by the GPAC are as
+space-efficient as computations done in the context of Computable Analysis.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 07:48:23 GMT'}, {'version': 'v2', 'created': 'Wed, 20 Jan 2016 17:49:53 GMT'}]",2017-01-18,"[['Pouly', 'Amaury', ''], ['Bournez', 'Olivier', ''], ['Graça', 'Daniel S.', '']]"
+330044,1203.4685,Sumit Singh,Sumit Singh,A Local Approach for Identifying Clusters in Networks,,,,,cs.SI physics.soc-ph,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Graph clustering is a fundamental problem that has been extensively studied
+both in theory and practice. The problem has been defined in several ways in
+literature and most of them have been proven to be NP-Hard. Due to their high
+practical relevancy, several heuristics for graph clustering have been
+introduced which constitute a central tool for coping with NP-completeness, and
+are used in applications of clustering ranging from computer vision, to data
+analysis, to learning. There exist many methodologies for this problem, however
+most of them are global in nature and are unlikely to scale well for very large
+networks. In this paper, we propose two scalable local approaches for
+identifying the clusters in any network. We further extend one of these
+approaches for discovering the overlapping clusters in these networks. Some
+experimentation results obtained for the proposed approaches are also
+presented.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 09:27:24 GMT'}, {'version': 'v2', 'created': 'Fri, 23 Mar 2012 21:33:44 GMT'}]",2012-03-27,"[['Singh', 'Sumit', '']]"
+330052,1203.4693,Christian Kissling,Christian Kissling,On the Stability of Contention Resolution Diversity Slotted ALOHA,"10 pages, 12 figures This paper is submitted to the IEEE Transactions
+  on Communications for possible publication. The IEEE copyright notice applies",,10.1109/GLOCOM.2011.6134329,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this paper a Time Division Multiple Access (TDMA) based Random Access (RA)
+channel with Successive Interference Cancellation (SIC) is considered for a
+finite user population and reliable retransmission mechanism on the basis of
+Contention Resolution Diversity Slotted ALOHA (CRDSA). A general mathematical
+model based on Markov Chains is derived which makes it possible to predict the
+stability regions of SIC-RA channels, the expected delays in equilibrium and
+the selection of parameters for a stable channel configuration. Furthermore the
+model enables the estimation of the average time before reaching instability.
+The presented model is verified against simulations and numerical results are
+provided for comparison of the stability of CRDSA versus the stability of
+traditional Slotted ALOHA (SA). The presented results show that CRDSA has not
+only a high gain over SA in terms of throughput but also in its stability.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 09:49:40 GMT'}]",2016-11-18,"[['Kissling', 'Christian', '']]"
+330053,1203.4694,Devesh Jinwala PhD,"Devesh C. Jinwala, Dhiren R. Patel, Sankita Patel, Kankar S. Dasgupta","Optimizing the Replay Protection at the Link Layer Security Framework in
+  Wireless Sensor Networks","12 pages, Accepted for publication in International Journal of
+  Computer Science, IAENG Publication - BUT NOT PUBLISHED",,,,cs.CR,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Ensuring communications security in Wireless Sensor Networks (WSNs) is very
+vital because the security protocols therein, should be devised to work at the
+link layer. Theoretically, any link layer security protocol must support three
+vital security attributes viz. Confidentiality, Message Integrity and Replay
+protection. However, in order to ensure lesser overhead, replay protection is
+often not incorporated as part of the link layer security framework. We argue
+here, that it is essential to implement replay protection at the link layer
+only and devise a simple scheme to do so. We first survey the common approaches
+to ensuring replay protection in conventional networks. We also implement the
+conventional algorithms for replay protection using the link layer framework
+for WSNs viz. TinySec as the underlying platform. Subsequently analyzing their
+limitations, we propose a novel Bloom-filter based replay protection algorithm
+for unicast communications. We show that our algorithm is better than the other
+contemporary approaches for ensuring replay protection in unicast
+communications in the WSNs.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 09:56:12 GMT'}]",2012-03-22,"[['Jinwala', 'Devesh C.', ''], ['Patel', 'Dhiren R.', ''], ['Patel', 'Sankita', ''], ['Dasgupta', 'Kankar S.', '']]"
+330056,1203.4697,Devesh Jinwala PhD,"Devesh Jinwala, Dhiren Patel, Kankar Dasgupta","FlexiSec: A Configurable Link Layer Security Architecture for Wireless
+  Sensor Networks",22 pages,Journal of Information Assurance and Security 4 (2009) pp. 582-603,,,cs.CR,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Ensuring communications security in Wireless Sensor Networks (WSNs) indeed is
+critical; due to the criticality of the resources in the sensor nodes as well
+as due to their ubiquitous and pervasive deployment, with varying attributes
+and degrees of security required. The proliferation of the next generation
+sensor nodes, has not solved this problem, because of the greater emphasis on
+low-cost deployment. In addition, the WSNs use data-centric multi-hop
+communication that in turn, necessitates the security support to be devised at
+the link layer (increasing the cost of security related operations), instead of
+being at the application layer, as in general networks. Therefore, an
+energy-efficient link layer security framework is necessitated. There do exists
+a number of link layer security architectures that offer some combinations of
+the security attributes desired by different WSN applications. However, as we
+show in this paper, none of them is responsive to the actual security demands
+of the applications. Therefore, we believe that there is a need for
+investigating the feasibility of a configurable software-based link layer
+security architecture wherein an application can be compiled flexibly, with
+respect to its actual security demands. In this paper, we analyze, propose and
+experiment with the basic design of such configurable link layer security
+architecture for WSNs. We also experimentally evaluate various aspects related
+to our scheme viz. configurable block ciphers, configurable block cipher modes
+of operations, configurable MAC sizes and configurable replay protection. The
+architecture proposed is aimed to offer the optimal level of security at the
+minimal overhead, thus saving the precious resources in the WSNs.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 10:06:00 GMT'}]",2012-03-22,"[['Jinwala', 'Devesh', ''], ['Patel', 'Dhiren', ''], ['Dasgupta', 'Kankar', '']]"
+330057,1203.4698,Devesh Jinwala PhD,"Vivaksha Jariwala, Devesh Jinwala",A Novel Approach for Secure Data Aggregation in Wireless Sensor Networks,"12 pages, Proceedings of the 10th National Workshop on Cryptology,
+  PSG Institute, coimbatore, Indian, Sep 2-4, 2010",,,,cs.CR,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  The Wireless Sensor Networks (WSNs) are composed of resource starved sensor
+nodes that are deployed to sense, process and communicate vital information to
+the base station. Due to the stringent constraints on the resources in the
+sensor nodes on one hand and due to the communications costs being always
+significantly higher than the data processing costs, the WSNs typically, employ
+in-network processing, which aims at reducing effectively, the total number of
+packets eventually transmitted to the base station. Such innetwork processing
+largely employs data aggregation operations that aggregate the data into a
+compact representation for further transmission. However, due to the ubiquitous
+& pervasive deployment, heavier resource demands of the security protocols and
+due to the stringent resource constraints in WSN nodes, the security concerns
+in WSNs are even otherwise critical. These concerns assume alarming proportions
+when using data aggregation in which the output of the data aggregator nodes
+depends on that of various other nodes. Hence, the protocols for data
+aggregation have to carefully devised with a constant vigil on ensuring
+security of the data. In this paper, based on our survey of the existing
+research efforts for ensuring secure data aggregation, we propose a novel
+approach using homomorphic encryption and additive digital signatures to
+achieve confidentiality, integrity and availability for secure data aggregation
+in wireless sensor networks.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 10:09:55 GMT'}]",2012-03-22,"[['Jariwala', 'Vivaksha', ''], ['Jinwala', 'Devesh', '']]"
+330064,1203.4705,Sven Simonsen,J{\o}rgen Bang-Jensen and Sven Simonsen,Arc-Disjoint Paths and Trees in 2-Regular Digraphs,"9 pages, 7 figures",,,,math.CO cs.DM,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  An out-(in-)branching B_s^+ (B_s^-) rooted at s in a digraph D is a connected
+spanning subdigraph of D in which every vertex x != s has precisely one arc
+entering (leaving) it and s has no arcs entering (leaving) it. We settle the
+complexity of the following two problems:
+  1) Given a 2-regular digraph $D$, decide if it contains two arc-disjoint
+branchings B^+_u, B^-_v.
+  2) Given a 2-regular digraph D, decide if it contains an out-branching B^+_u
+such that D remains connected after removing the arcs of B^+_u.
+  Both problems are NP-complete for general digraphs. We prove that the first
+problem remains NP-complete for 2-regular digraphs, whereas the second problem
+turns out to be polynomial when we do not prescribe the root in advance. We
+also prove that, for 2-regular digraphs, the latter problem is in fact
+equivalent to deciding if $D$ contains two arc-disjoint out-branchings. We
+generalize this result to k-regular digraphs where we want to find a number of
+pairwise arc-disjoint spanning trees and out-branchings such that there are k
+in total, again without prescribing any roots.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 11:15:51 GMT'}]",2012-03-22,"[['Bang-Jensen', 'Jørgen', ''], ['Simonsen', 'Sven', '']]"
+330075,1203.4716,Andreas Abel,"Andreas Abel (Department of Computer Science,
+  Ludwig-Maximilians-University Munich), Gabriel Scherer (Department of
+  Computer Science, Ludwig-Maximilians-University Munich)",On Irrelevance and Algorithmic Equality in Predicative Type Theory,"36 pages, superseds the FoSSaCS 2011 paper of the first author,
+  titled ""Irrelevance in Type Theory with a Heterogeneous Equality Judgement""","Logical Methods in Computer Science, Volume 8, Issue 1 (March 27,
+  2012) lmcs:1045",10.2168/LMCS-8(1:29)2012,,cs.LO cs.PL,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Dependently typed programs contain an excessive amount of static terms which
+are necessary to please the type checker but irrelevant for computation. To
+separate static and dynamic code, several static analyses and type systems have
+been put forward. We consider Pfenning's type theory with irrelevant
+quantification which is compatible with a type-based notion of equality that
+respects eta-laws. We extend Pfenning's theory to universes and large
+eliminations and develop its meta-theory. Subject reduction, normalization and
+consistency are obtained by a Kripke model over the typed equality judgement.
+Finally, a type-directed equality algorithm is described whose completeness is
+proven by a second Kripke model.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 11:53:19 GMT'}, {'version': 'v2', 'created': 'Fri, 23 Mar 2012 20:51:52 GMT'}]",2015-07-01,"[['Abel', 'Andreas', '', 'Department of Computer Science,\n  Ludwig-Maximilians-University Munich'], ['Scherer', 'Gabriel', '', 'Department of\n  Computer Science, Ludwig-Maximilians-University Munich']]"
+330084,1203.4725,Loet Leydesdorff,Loet Leydesdorff and Tobias Opthof,"Citation Analysis with Medical Subject Headings (MeSH) using the Web of
+  Knowledge: A new routine","Journal of the American Society for Information Science and
+  Technology (2012, in press)",,,,cs.DL,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Citation analysis of documents retrieved from the Medline database (at the
+Web of Knowledge) has been possible only on a case-by-case basis. A technique
+is here developed for citation analysis in batch mode using both Medical
+Subject Headings (MeSH) at the Web of Knowledge and the Science Citation Index
+at the Web of Science. This freeware routine is applied to the case of ""Brugada
+Syndrome,"" a specific disease and field of research (since 1992). The journals
+containing these publications, for example, are attributed to Web-of-Science
+Categories other than ""Cardiac and Cardiovascular Systems""), perhaps because of
+the possibility of genetic testing for this syndrome in the clinic. With this
+routine, all the instruments available for citation analysis can now be used on
+the basis of MeSH terms. Other options for crossing between Medline, WoS, and
+Scopus are also reviewed.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 12:56:26 GMT'}, {'version': 'v2', 'created': 'Mon, 2 Jul 2012 19:43:45 GMT'}]",2012-07-03,"[['Leydesdorff', 'Loet', ''], ['Opthof', 'Tobias', '']]"
+330091,1203.4732,Gianluca Della Vedova,"Paola Bonizzoni, Peter J. Cameron, Gianluca Della Vedova, Alberto
+  Leporati, Giancarlo Mauri","A Unifying Framework to Characterize the Power of a Language to Express
+  Relations",23 pages,,,,cs.DB,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this extended abstract we provide a unifying framework that can be used to
+characterize and compare the expressive power of query languages for different
+data base models. The framework is based upon the new idea of valid partition,
+that is a partition of the elements of a given data base, where each class of
+the partition is composed by elements that cannot be separated (distinguished)
+according to some level of information contained in the data base. We describe
+two applications of this new framework, first by deriving a new syntactic
+characterization of the expressive power of relational algebra which is
+equivalent to the one given by Paredaens, and subsequently by studying the
+expressive power of a simple graph-based data model.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 13:34:38 GMT'}]",2012-03-22,"[['Bonizzoni', 'Paola', ''], ['Cameron', 'Peter J.', ''], ['Della Vedova', 'Gianluca', ''], ['Leporati', 'Alberto', ''], ['Mauri', 'Giancarlo', '']]"
+330099,1203.474,Scott Aaronson,Scott Aaronson and Paul Christiano,Quantum Money from Hidden Subspaces,"48 pages, minor corrections and improvements, journal version to
+  appear in Theory of Computing; Proceedings of ACM STOC 2012",,,,quant-ph cs.CC,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Forty years ago, Wiesner pointed out that quantum mechanics raises the
+striking possibility of money that cannot be counterfeited according to the
+laws of physics. We propose the first quantum money scheme that is (1)
+public-key, meaning that anyone can verify a banknote as genuine, not only the
+bank that printed it, and (2) cryptographically secure, under a ""classical""
+hardness assumption that has nothing to do with quantum money. Our scheme is
+based on hidden subspaces, encoded as the zero-sets of random multivariate
+polynomials. A main technical advance is to show that the ""black-box"" version
+of our scheme, where the polynomials are replaced by classical oracles, is
+unconditionally secure. Previously, such a result had only been known relative
+to a quantum oracle (and even there, the proof was never published). Even in
+Wiesner's original setting -- quantum money that can only be verified by the
+bank -- we are able to use our techniques to patch a major security hole in
+Wiesner's scheme. We give the first private-key quantum money scheme that
+allows unlimited verifications and that remains unconditionally secure, even if
+the counterfeiter can interact adaptively with the bank. Our money scheme is
+simpler than previous public-key quantum money schemes, including a knot-based
+scheme of Farhi et al. The verifier needs to perform only two tests, one in the
+standard basis and one in the Hadamard basis -- matching the original intuition
+for quantum money, based on the existence of complementary observables. Our
+security proofs use a new variant of Ambainis's quantum adversary method, and
+several other tools that might be of independent interest.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 14:10:46 GMT'}, {'version': 'v2', 'created': 'Sun, 25 Mar 2012 00:35:23 GMT'}, {'version': 'v3', 'created': 'Mon, 17 Sep 2012 19:12:17 GMT'}]",2012-09-18,"[['Aaronson', 'Scott', ''], ['Christiano', 'Paul', '']]"
+330104,1203.4745,Jason Priem,"Jason Priem, Heather A. Piwowar, Bradley M. Hemminger",Altmetrics in the wild: Using social media to explore scholarly impact,"5 tables, 13 figures",,,,cs.DL,http://creativecommons.org/licenses/by/3.0/,"  In growing numbers, scholars are integrating social media tools like blogs,
+Twitter, and Mendeley into their professional communications. The online,
+public nature of these tools exposes and reifies scholarly processes once
+hidden and ephemeral. Metrics based on this activities could inform broader,
+faster measures of impact, complementing traditional citation metrics. This
+study explores the properties of these social media-based metrics or
+""altmetrics"", sampling 24,331 articles published by the Public Library of
+Science.
+  We find that that different indicators vary greatly in activity. Around 5% of
+sampled articles are cited in Wikipedia, while close to 80% have been included
+in at least one Mendeley library. There is, however, an encouraging diversity;
+a quarter of articles have nonzero data from five or more different sources.
+Correlation and factor analysis suggest citation and altmetrics indicators
+track related but distinct impacts, with neither able to describe the complete
+picture of scholarly use alone. There are moderate correlations between
+Mendeley and Web of Science citation, but many altmetric indicators seem to
+measure impact mostly orthogonal to citation. Articles cluster in ways that
+suggest five different impact ""flavors"", capturing impacts of different types
+on different audiences; for instance, some articles may be heavily read and
+saved by scholars but seldom cited. Together, these findings encourage more
+research into altmetrics as complements to traditional citation measures.
+","[{'version': 'v1', 'created': 'Tue, 20 Mar 2012 19:46:25 GMT'}]",2012-03-22,"[['Priem', 'Jason', ''], ['Piwowar', 'Heather A.', ''], ['Hemminger', 'Bradley M.', '']]"
+330105,1203.4746,Anastasios Kyrillidis,Anastasios Kyrillidis and Volkan Cevher,"Sublinear Time, Approximate Model-based Sparse Recovery For All","This paper has been drawn by the author due to a error in the
+  derivation",,,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We describe a probabilistic, {\it sublinear} runtime, measurement-optimal
+system for model-based sparse recovery problems through dimensionality
+reducing, {\em dense} random matrices. Specifically, we obtain a linear sketch
+$u\in \R^M$ of a vector $\bestsignal\in \R^N$ in high-dimensions through a
+matrix $\Phi \in \R^{M\times N}$ $(M<N)$. We assume this vector can be well
+approximated by $K$ non-zero coefficients (i.e., it is $K$-sparse). In
+addition, the nonzero coefficients of $\bestsignal$ can obey additional
+structure constraints such as matroid, totally unimodular, or knapsack
+constraints, which dub as model-based sparsity. We construct the dense
+measurement matrix using a probabilistic method so that it satisfies the
+so-called restricted isometry property in the $\ell_2$-norm. While recovery
+using such matrices is measurement-optimal as they require the smallest sketch
+sizes $\numsam= O(\sparsity \log(\dimension/\sparsity))$, the existing
+algorithms require superlinear runtime $\Omega(N\log(N/K))$ with the exception
+of Porat and Strauss, which requires $O(\beta^5\epsilon^{-3}K(N/K)^{1/\beta}),
+~\beta \in \mathbb{Z}_{+}, $ but provides an $\ell_1/\ell_1$ approximation
+guarantee. In contrast, our approach features $ O\big(\max \lbrace \sketch
+\sparsity \log^{O(1)} \dimension, ~\sketch \sparsity^2 \log^2
+(\dimension/\sparsity) \rbrace\big) $ complexity where $ L \in \mathbb{Z}_{+}$
+is a design parameter, independent of $\dimension$, requires a smaller sketch
+size, can accommodate model sparsity, and provides a stronger $\ell_2/\ell_1$
+guarantee. Our system applies to ""for all"" sparse signals, is robust against
+bounded perturbations in $u$ as well as perturbations on $\bestsignal$ itself.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 14:40:46 GMT'}, {'version': 'v2', 'created': 'Thu, 21 Jun 2012 15:26:23 GMT'}]",2012-06-22,"[['Kyrillidis', 'Anastasios', ''], ['Cevher', 'Volkan', '']]"
+330110,1203.4751,Srivatsan Ravi Mr,"Vincent Gramoli, Petr Kuznetsov, Srivatsan Ravi",Optimism for Boosting Concurrency,,,,,cs.DC,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Modern concurrent programming benefits from a large variety of
+synchronization techniques. These include conventional pessimistic locking, as
+well as optimistic techniques based on conditional synchronization primitives
+or transactional memory. Yet, it is unclear which of these approaches better
+leverage the concurrency inherent to multi-cores.
+  In this paper, we compare the level of concurrency one can obtain by
+converting a sequential program into a concurrent one using optimistic or
+pessimistic techniques. To establish fair comparison of such implementations,
+we introduce a new correctness criterion for concurrent programs, defined
+independently of the synchronization techniques they use.
+  We treat a program's concurrency as its ability to accept a concurrent
+schedule, a metric inspired by the theories of both databases and transactional
+memory. We show that pessimistic locking can provide strictly higher
+concurrency than transactions for some applications whereas transactions can
+provide strictly higher concurrency than pessimistic locks for others. Finally,
+we show that combining the benefits of the two synchronization techniques can
+provide strictly more concurrency than any of them individually. We propose a
+list-based set algorithm that is optimal in the sense that it accepts all
+correct concurrent schedules. As we show via experimentation, the optimality in
+terms of concurrency is reflected by scalability gains.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 14:44:40 GMT'}, {'version': 'v2', 'created': 'Thu, 24 May 2012 12:47:54 GMT'}, {'version': 'v3', 'created': 'Mon, 27 May 2013 15:01:56 GMT'}, {'version': 'v4', 'created': 'Wed, 3 Jul 2013 15:18:00 GMT'}, {'version': 'v5', 'created': 'Fri, 4 Oct 2013 18:16:19 GMT'}, {'version': 'v6', 'created': 'Fri, 14 Feb 2014 16:49:05 GMT'}, {'version': 'v7', 'created': 'Tue, 27 May 2014 09:41:32 GMT'}, {'version': 'v8', 'created': 'Tue, 13 Oct 2015 21:02:53 GMT'}]",2015-10-15,"[['Gramoli', 'Vincent', ''], ['Kuznetsov', 'Petr', ''], ['Ravi', 'Srivatsan', '']]"
+330113,1203.4754,Pierre Lescanne,"Silvia Ghilezan, Pierre Lescanne (LIP), Dragisa Zunic","Computational interpretation of classical logic with explicit structural
+  rules",,,,,cs.LO cs.DC math.LO,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We present a calculus providing a Curry-Howard correspondence to classical
+logic represented in the sequent calculus with explicit structural rules,
+namely weakening and contraction. These structural rules introduce explicit
+erasure and duplication of terms, respectively. We present a type system for
+which we prove the type-preservation under reduction. A mutual relation with
+classical calculus featuring implicit structural rules has been studied in
+detail. From this analysis we derive strong normalisation property.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 14:53:02 GMT'}]",2012-03-23,"[['Ghilezan', 'Silvia', '', 'LIP'], ['Lescanne', 'Pierre', '', 'LIP'], ['Zunic', 'Dragisa', '']]"
+330115,1203.4756,Eliyahu Osherovich,Eliyahu Osherovich,Numerical methods for phase retrieval,PhD. Thesis,,,PHD-2012-04,physics.optics astro-ph.IM cs.NA physics.data-an,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this work we consider the problem of reconstruction of a signal from the
+magnitude of its Fourier transform, also known as phase retrieval. The problem
+arises in many areas of astronomy, crystallography, optics, and coherent
+diffraction imaging (CDI). Our main goal is to develop an efficient
+reconstruction method based on continuous optimization techniques. Unlike
+current reconstruction methods, which are based on alternating projections, our
+approach leads to a much faster and more robust method. However, all previous
+attempts to employ continuous optimization methods, such as Newton-type
+algorithms, to the phase retrieval problem failed. In this work we provide an
+explanation for this failure, and based on this explanation we devise a
+sufficient condition that allows development of new reconstruction
+methods---approximately known Fourier phase. We demonstrate that a rough (up to
+$\pi/2$ radians) Fourier phase estimate practically guarantees successful
+reconstruction by any reasonable method. We also present a new reconstruction
+method whose reconstruction time is orders of magnitude faster than that of the
+current method-of-choice in phase retrieval---Hybrid Input-Output (HIO).
+Moreover, our method is capable of successful reconstruction even in the
+situations where HIO is known to fail. We also extended our method to other
+applications: Fourier domain holography, and interferometry. Additionally we
+developed a new sparsity-based method for sub-wavelength CDI. Using this method
+we demonstrated experimental resolution exceeding several times the physical
+limit imposed by the diffraction light properties (so called diffraction
+limit).
+","[{'version': 'v1', 'created': 'Sun, 11 Mar 2012 09:02:13 GMT'}]",2012-03-22,"[['Osherovich', 'Eliyahu', '']]"
+330116,1203.4757,Eliyahu Osherovich,"Eliyahu Osherovich, Oren Cohen, Yonina C. Eldar, and Mordechai Segev","Designing and using prior data in Ankylography: Recovering a 3D object
+  from a single diffraction intensity pattern",,,,,physics.optics astro-ph.IM cs.NA physics.data-an,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We present a novel method for Ankylography: three-dimensional structure
+reconstruction from a single shot diffraction intensity pattern. Our approach
+allows reconstruction of objects containing many more details than was ever
+demonstrated, in a faster and more accurate fashion
+","[{'version': 'v1', 'created': 'Thu, 8 Mar 2012 14:58:16 GMT'}]",2012-03-22,"[['Osherovich', 'Eliyahu', ''], ['Cohen', 'Oren', ''], ['Eldar', 'Yonina C.', ''], ['Segev', 'Mordechai', '']]"
+330123,1203.4764,Mikel Hernaez Mr.,"Mikel Hernaez, Pedro M. Crespo, Javier Del Ser","On the Design of a Novel Joint Network-Channel Coding Scheme for the
+  Multiple Access Relay Channel","28 pages, 9 figures; Submitted to IEEE Journal on Selected Areas in
+  Communications - Special Issue on Theories and Methods for Advanced Wireless
+  Relays, 2012",,10.1109/JSAC.2013.130802,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This paper proposes a novel joint non-binary network-channel code for the
+Time-Division Decode-and-Forward Multiple Access Relay Channel (TD-DF-MARC),
+where the relay linearly combines -- over a non-binary finite field -- the
+coded sequences from the source nodes. A method based on an EXIT chart analysis
+is derived for selecting the best coefficients of the linear combination.
+Moreover, it is shown that for different setups of the system, different
+coefficients should be chosen in order to improve the performance. This
+conclusion contrasts with previous works where a random selection was
+considered. Monte Carlo simulations show that the proposed scheme outperforms,
+in terms of its gap to the outage probabilities, the previously published joint
+network-channel coding approaches. Besides, this gain is achieved by using very
+short-length codewords, which makes the scheme particularly attractive for
+low-latency applications.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 15:37:13 GMT'}]",2016-11-15,"[['Hernaez', 'Mikel', ''], ['Crespo', 'Pedro M.', ''], ['Del Ser', 'Javier', '']]"
+330147,1203.4788,Altay Brusan,Altay Brusan,"Very Short Literature Survey From Supervised Learning To Surrogate
+  Modeling",,,,,cs.LG,http://creativecommons.org/licenses/by/3.0/,"  The past century was era of linear systems. Either systems (especially
+industrial ones) were simple (quasi)linear or linear approximations were
+accurate enough. In addition, just at the ending decades of the century
+profusion of computing devices were available, before then due to lack of
+computational resources it was not easy to evaluate available nonlinear system
+studies. At the moment both these two conditions changed, systems are highly
+complex and also pervasive amount of computation strength is cheap and easy to
+achieve. For recent era, a new branch of supervised learning well known as
+surrogate modeling (meta-modeling, surface modeling) has been devised which
+aimed at answering new needs of modeling realm. This short literature survey is
+on to introduce surrogate modeling to whom is familiar with the concepts of
+supervised learning. Necessity, challenges and visions of the topic are
+considered.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 17:29:17 GMT'}]",2012-03-22,"[['Brusan', 'Altay', '']]"
+330166,1203.4807,Filipi Nascimento Silva,"Filipi Nascimento Silva, Francisco Aparecido Rodrigues, Osvaldo Novais
+  de Oliveira Junior and Luciano da Fontoura Costa",Quantifying the interdisciplinarity of scientific journals and fields,"23 pages, 6 figures","Journal of Informetrics. Volume 7, Issue 2, Pages 469-477, 2003",10.1016/j.joi.2013.01.007,,physics.soc-ph cs.DL physics.comp-ph physics.data-an,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  There is an overall perception of increased interdisciplinarity in science,
+but this is difficult to confirm quantitatively owing to the lack of adequate
+methods to evaluate subjective phenomena. This is no different from the
+difficulties in establishing quantitative relationships in human and social
+sciences. In this paper we quantified the interdisciplinarity of scientific
+journals and science fields by using an entropy measurement based on the
+diversity of the subject categories of journals citing a specific journal. The
+methodology consisted in building citation networks using the Journal Citation
+Reports database, in which the nodes were journals and edges were established
+based on citations among journals. The overall network for the 11-year period
+(1999-2009) studied was small-world and scale free with regard to the
+in-strength. Upon visualizing the network topology an overall structure of the
+various science fields could be inferred, especially their interconnections. We
+confirmed quantitatively that science fields are becoming increasingly
+interdisciplinary, with the degree of interdisplinarity (i.e. entropy)
+correlating strongly with the in-strength of journals and with the impact
+factor.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 19:43:33 GMT'}]",2013-03-12,"[['Silva', 'Filipi Nascimento', ''], ['Rodrigues', 'Francisco Aparecido', ''], ['Junior', 'Osvaldo Novais de Oliveira', ''], ['Costa', 'Luciano da Fontoura', '']]"
+330169,1203.481,Aslan Tchamkerten,Marat V. Burnashev and Aslan Tchamkerten,"Estimating a Random Walk First-Passage Time from Noisy or Delayed
+  Observations",To appear in the IEEE Transactions on Information Theory,,,,cs.IT math.IT stat.OT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  A random walk (or a Wiener process), possibly with drift, is observed in a
+noisy or delayed fashion. The problem considered in this paper is to estimate
+the first time \tau the random walk reaches a given level. Specifically, the
+p-moment (p\geq 1) optimization problem \inf_\eta \ex|\eta-\tau|^p is
+investigated where the infimum is taken over the set of stopping times that are
+defined on the observation process.
+  When there is no drift, optimal stopping rules are characterized for both
+types of observations. When there is a drift, upper and lower bounds on
+\inf_\eta \ex|\eta-\tau|^p are established for both types of observations. The
+bounds are tight in the large-level regime for noisy observations and in the
+large-level-large-delay regime for delayed observations. Noteworthy, for noisy
+observations there exists an asymptotically optimal stopping rule that is a
+function of a single observation.
+  Simulation results are provided that corroborate the validity of the results
+for non-asymptotic settings.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 19:59:24 GMT'}]",2012-03-22,"[['Burnashev', 'Marat V.', ''], ['Tchamkerten', 'Aslan', '']]"
+330181,1203.4822,Francisco Soulignac,"Andrew R. Curtis, Min Chih Lin, Ross M. McConnell, Yahav Nussbaum,
+  Francisco J. Soulignac, Jeremy P. Spinrad, Jayme L. Szwarcfiter",Isomorphism of graph classes related to the circular-ones property,"25 pages, 9 figures","Discrete Math. Theor. Comput. Sci. 15 (2013), 157--182",,,cs.DS cs.DM,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We give a linear-time algorithm that checks for isomorphism between two 0-1
+matrices that obey the circular-ones property. This algorithm leads to
+linear-time isomorphism algorithms for related graph classes, including Helly
+circular-arc graphs, \Gamma-circular-arc graphs, proper circular-arc graphs and
+convex-round graphs.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 20:03:53 GMT'}]",2013-09-18,"[['Curtis', 'Andrew R.', ''], ['Lin', 'Min Chih', ''], ['McConnell', 'Ross M.', ''], ['Nussbaum', 'Yahav', ''], ['Soulignac', 'Francisco J.', ''], ['Spinrad', 'Jeremy P.', ''], ['Szwarcfiter', 'Jayme L.', '']]"
+330186,1203.4827,Mohammed Erritali,"Mohammed Erritali, Oussama Mohamed Reda, Bouabid El Ouahidi","UML modelling of geographic routing protocol ""Greedy Perimeter Stateless
+  Routing"" for its integration into the ""Java Network Simulator""",5 pages,"International Journal of Advanced Research in Computer Science and
+  Software Engineering ISSN: 2277 128X Volume 2, Issue 2, February 2012",,,cs.NI,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this work we propose an UML modeling of the ""Greedy Perimeter Stateless
+Routing"" (GPSR) protocol that integrate this geographic routing protocol, into
+""JavaNetwork Simulator"" to simulate and study this protocol in a first time and
+offer some improvement in these features. Java Network Simulator (JNS) is a
+project of ""translation"" of Network Simulator (NS) in Java initiated by ""the
+UCL Department of Computer Science"". This simulator is not as complete as ns-2,
+but it is much more accessible to programmers unfamiliar with Tcl. Java Network
+Simulator does not support so far, no routing protocol for vehicular ad hoc
+networks and all the routing decisions are made statically or using RIP and
+OSPF. By modeling and integrating the routing protocol GPSR to JNS, users will
+be able to understand the concept of the geographic routing and how the routing
+information is transmitted and updated between nodes in vehicular ad hoc
+network. The article first examines the architecture of the Java Network
+Simulator, then gives a brief review of the routing protocol GPSR and finally
+presents our UML modeling incorporating GPSR in the Java Network Simulator.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 20:15:42 GMT'}]",2012-03-23,"[['Erritali', 'Mohammed', ''], ['Reda', 'Oussama Mohamed', ''], ['Ouahidi', 'Bouabid El', '']]"
+330195,1203.4836,Anatolijs Gorbunovs,Anatolijs Gorbunovs,On a New Method of Storing a Variable Size Array,,,,,cs.DS,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This paper introduces a new data structure, log_vector, with the following
+properties: constant time random access to individual elements; constant time
+element addition to the end; constant time element removal from the end;
+constant time empty data structure creation; amortized constant space per
+individual elements; constant additional space used.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 21:15:44 GMT'}]",2012-03-23,"[['Gorbunovs', 'Anatolijs', '']]"
+330200,1203.4841,Abhijeet Bhorkar,"A. A. Bhorkar, T. Javidi, A. C. Snoeren",Achieving Congestion Diversity in Multi-hop Wireless Mesh Networks,,,,,cs.NI,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This paper reports on the first systematic study of congestion-aware routing
+algorithms for wireless mesh networks to achieve an improved end-end delay
+performance. In particular, we compare 802.11 compatible implementations of a
+set of congestion-aware routing protocols against our implementation of state
+of the art shortest path routing protocol (SRCR). We implement congestion-aware
+routing algorithms Backpressure (BP), Enhanced-Backpressure (E-BP) adapted from
+[1], [2] suitably adjusted for 802.11 implementation. We then propose and
+implement Congestion Diversity Protocol (CDP) adapted from [3] recognizing the
+limitations of BP and E-BP for 802.11-based wireless networks. SRCR solely
+utilizes link qualities, while BP relies on queue differential to route
+packets. CDP and E-BP rely on distance metrics which take into account queue
+backlogs and link qualities in the network. E-BP computes its metric by summing
+the ETX and queue differential, while CDP determines its metric by calculating
+the least draining time to the destination. Our small testbed consisting of
+twelve 802.11g nodes enables us to empirically compare the performance of
+congestion-aware routing protocols (BP, E-BP and CDP) against benchmark SRCR.
+For medium to high load UDP traffic, we observe that CDP exhibits significant
+improvement with respect to both end-end delay and throughput over other
+protocols with no loss of performance for TCP traffic. Backpressure-based
+routing algorithms (BP and E-BP) show poorer performance for UDP and TCP
+traffic. Finally, we carefully study the effects of the modular approach to
+congestion-aware routing design in which the MAC layer is left intact
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 21:34:17 GMT'}]",2012-03-23,"[['Bhorkar', 'A. A.', ''], ['Javidi', 'T.', ''], ['Snoeren', 'A. C.', '']]"
+330203,1203.4844,Ernest Kurniawan,"Ernest Kurniawan, Andrea Goldsmith, and Stefano Rini",Practical Coding Schemes for Cognitive Overlay Radios,Patent pending,,,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We develop practical coding schemes for the cognitive overlay radios as
+modeled by the cognitive interference channel, a variation of the classical two
+user interference channel where one of the transmitters has knowledge of both
+messages. Inspired by information theoretical results, we develop a coding
+strategy for each of the three parameter regimes where capacity is known. A key
+feature of the capacity achieving schemes in these regimes is the joint
+decoding of both users' codewords, which we accomplish by performing a
+posteriori probability calculation over a combined trellis. The schemes are
+shown to perform close to the capacity limit with low error rate.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 21:39:24 GMT'}, {'version': 'v2', 'created': 'Fri, 8 Jun 2012 23:42:45 GMT'}]",2012-06-12,"[['Kurniawan', 'Ernest', ''], ['Goldsmith', 'Andrea', ''], ['Rini', 'Stefano', '']]"
+330214,1203.4855,Shervan Fekri ershad,Shervan Fekri Ershad,"Texture Classification Approach Based on Combination of Edge &
+  Co-occurrence and Local Binary Pattern","4 pages, 6 figures, 1 tables","Int'l Conf. IP, Comp. Vision, and Pattern Recognition, IPCV'11,
+  2011, pp. 626-629",,,cs.CV cs.AI,http://creativecommons.org/licenses/by/3.0/,"  Texture classification is one of the problems which has been paid much
+attention on by computer scientists since late 90s. If texture classification
+is done correctly and accurately, it can be used in many cases such as Pattern
+recognition, object tracking, and shape recognition. So far, there have been so
+many methods offered to solve this problem. Near all these methods have tried
+to extract and define features to separate different labels of textures really
+well. This article has offered an approach which has an overall process on the
+images of textures based on Local binary pattern and Gray Level Co-occurrence
+matrix and then by edge detection, and finally, extracting the statistical
+features from the images would classify them. Although, this approach is a
+general one and is could be used in different applications, the method has been
+tested on the stone texture and the results have been compared with some of the
+previous approaches to prove the quality of proposed approach.
+","[{'version': 'v1', 'created': 'Wed, 21 Mar 2012 23:33:30 GMT'}]",2012-03-23,"[['Ershad', 'Shervan Fekri', '']]"
+330222,1203.4863,Gabriel Tucci,"John D. Hobby, Gabriel H. Tucci",Traffic Analysis in Random Delaunay Tessellations and Other Graphs,Submitted to the Journal of Discrete Computational Geometry,,,,math.DG cs.CG cs.NI math.CO,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this work we study the degree distribution, the maximum vertex and edge
+flow in non-uniform random Delaunay triangulations when geodesic routing is
+used. We also investigate the vertex and edge flow in Erd\""os-Renyi random
+graphs, geometric random graphs, expanders and random $k$-regular graphs.
+Moreover we show that adding a random matching to the original graph can
+considerably reduced the maximum vertex flow.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 00:46:00 GMT'}]",2012-03-23,"[['Hobby', 'John D.', ''], ['Tucci', 'Gabriel H.', '']]"
+330224,1203.4865,Himanshu Asnani,"Himanshu Asnani, Haim Permuter and Tsachy Weissman","Successive Refinement with Decoder Cooperation and its Channel Coding
+  Duals","55 pages, 15 figures, 8 tables, submitted to IEEE Transactions on
+  Information Theory. A shorter version submitted to ISIT 2012",,10.1109/TIT.2013.2266655,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We study cooperation in multi terminal source coding models involving
+successive refinement. Specifically, we study the case of a single encoder and
+two decoders, where the encoder provides a common description to both the
+decoders and a private description to only one of the decoders. The decoders
+cooperate via cribbing, i.e., the decoder with access only to the common
+description is allowed to observe, in addition, a deterministic function of the
+reconstruction symbols produced by the other. We characterize the fundamental
+performance limits in the respective settings of non-causal, strictly-causal
+and causal cribbing. We use a new coding scheme, referred to as Forward
+Encoding and Block Markov Decoding, which is a variant of one recently used by
+Cuff and Zhao for coordination via implicit communication. Finally, we use the
+insight gained to introduce and solve some dual channel coding scenarios
+involving Multiple Access Channels with cribbing.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 01:22:39 GMT'}]",2016-11-17,"[['Asnani', 'Himanshu', ''], ['Permuter', 'Haim', ''], ['Weissman', 'Tsachy', '']]"
+330226,1203.4867,Binyue Liu,Binyue Liu and Ning Cai,Multi-hop Analog Network Coding: An Amplify-and-Forward Approach,"22 pages, 20 figures",,,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this paper, we study the performance of an amplify-and-forward (AF) based
+analog network coding (ANC) relay scheme in a multi-hop wireless network under
+individual power constraints. In the first part, a unicast scenario is
+considered. The problem of finding the maximum achievable rate is formulated as
+an optimization problem. Rather than solving this non-concave maximization
+problem, we derive upper and lower bounds for the optimal rate. A cut-set like
+upper bound is obtained in a closed form for a layered relay network. A
+pseudo-optimal AF scheme is developed for a two-hop parallel network, which is
+different from the conventional scheme with all amplification gains chosen as
+the maximum possible values. The conditions under which either the novel scheme
+or the conventional one achieves a rate within half a bit of the upper bound
+are found. Then we provide an AF-based multi-hop ANC scheme with the two
+schemes for a layered relay network. It is demonstrated that the lower bound of
+the optimal rate can asymptotically achieve the upper bound when the network is
+in the generalized high-SNR regime. In the second part, the optimal rate region
+for a two-hop multiple access channel (MAC) via AF relays is investigated. In a
+similar manner, we first derive an outer bound for it and then focus on
+designing low complexity AF-based ANC schemes for different scenarios. Several
+examples are given and the numerical results indicate that the achievable rate
+region of the ANC schemes can perform close to the outer bound.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 01:27:15 GMT'}]",2012-03-23,"[['Liu', 'Binyue', ''], ['Cai', 'Ning', '']]"
+330229,1203.487,Zai Yang,"Zai Yang, Lihua Xie, and Cishen Zhang",Variational Bayesian algorithm for quantized compressed sensing,"Accepted by IEEE Trans. Signal Processing. 10 pages, 6 figures",,10.1109/TSP.2013.2256901,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Compressed sensing (CS) is on recovery of high dimensional signals from their
+low dimensional linear measurements under a sparsity prior and digital
+quantization of the measurement data is inevitable in practical implementation
+of CS algorithms. In the existing literature, the quantization error is modeled
+typically as additive noise and the multi-bit and 1-bit quantized CS problems
+are dealt with separately using different treatments and procedures. In this
+paper, a novel variational Bayesian inference based CS algorithm is presented,
+which unifies the multi- and 1-bit CS processing and is applicable to various
+cases of noiseless/noisy environment and unsaturated/saturated quantizer. By
+decoupling the quantization error from the measurement noise, the quantization
+error is modeled as a random variable and estimated jointly with the signal
+being recovered. Such a novel characterization of the quantization error
+results in superior performance of the algorithm which is demonstrated by
+extensive simulations in comparison with state-of-the-art methods for both
+multi-bit and 1-bit CS problems.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 02:22:58 GMT'}, {'version': 'v2', 'created': 'Fri, 29 Mar 2013 07:17:16 GMT'}]",2016-08-24,"[['Yang', 'Zai', ''], ['Xie', 'Lihua', ''], ['Zhang', 'Cishen', '']]"
+330233,1203.4874,Feng Li,"Christopher Thorpe, Feng Li, Zijia Li, Zhan Yu, David Saunders, Jingyi
+  Yu",A Co-Prime Blur Scheme for Data Security in Video Surveillance,,,,,cs.CV,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This paper presents a novel Coprime Blurred Pair (CBP) model for visual
+data-hiding for security in camera surveillance. While most previous approaches
+have focused on completely encrypting the video stream, we introduce a spatial
+encryption scheme by blurring the image/video contents to create a CBP. Our
+goal is to obscure detail in public video streams by blurring while allowing
+behavior to be recognized and to quickly deblur the stream so that details are
+available if behavior is recognized as suspicious. We create a CBP by blurring
+the same latent image with two unknown kernels. The two kernels are coprime
+when mapped to bivariate polynomials in the z domain. To deblur the CBP we
+first use the coprime constraint to approximate the kernels and sample the
+bivariate CBP polynomials in one dimension on the unit circle. At each sample
+point, we factor the 1D polynomial pair and compose the results into a 2D
+kernel matrix. Finally, we compute the inverse Fast Fourier Transform (FFT) of
+the kernel matrices to recover the coprime kernels and then the latent video
+stream. It is therefore only possible to deblur the video stream if a user has
+access to both streams. To improve the practicability of our algorithm, we
+implement our algorithm using a graphics processing unit (GPU) to decrypt the
+blurred video streams in real-time, and extensive experimental results
+demonstrate that our new scheme can effectively protect sensitive identity
+information in surveillance videos and faithfully reconstruct the unblurred
+video stream when two blurred sequences are available.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 02:57:53 GMT'}]",2012-03-23,"[['Thorpe', 'Christopher', ''], ['Li', 'Feng', ''], ['Li', 'Zijia', ''], ['Yu', 'Zhan', ''], ['Saunders', 'David', ''], ['Yu', 'Jingyi', '']]"
+330234,1203.4875,Qing Jin,"Qing Jin, Zhen Wang",Spontaneous Symmetry Breaking in Interdependent Networked Game,,,,,physics.soc-ph cs.SI,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Spatial evolution game has traditionally assumed that players interact with
+neighbors on a single network, which is isolated and not influenced by other
+systems. We introduce the simple game model into the interdependent networks
+composed of two networks, and show that when the interdependent factor $\alpha$
+is smaller than a particular value $\alpha_C$, homogeneous cooperation can be
+guaranteed. However, as interdependent factor exceeds $\alpha_C$, spontaneous
+symmetry breaking of fraction of cooperators presents itself between different
+networks. In addition, our results can be well predicted by the strategy-couple
+pair approximation method.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 03:09:00 GMT'}]",2015-03-20,"[['Jin', 'Qing', ''], ['Wang', 'Zhen', '']]"
+330240,1203.4881,Frank Neumann,Frank Neumann,Computational Complexity Analysis of Multi-Objective Genetic Programming,A conference version has been accepted for GECCO 2012,,,,cs.NE,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  The computational complexity analysis of genetic programming (GP) has been
+started recently by analyzing simple (1+1) GP algorithms for the problems ORDER
+and MAJORITY. In this paper, we study how taking the complexity as an
+additional criteria influences the runtime behavior. We consider
+generalizations of ORDER and MAJORITY and present a computational complexity
+analysis of (1+1) GP using multi-criteria fitness functions that take into
+account the original objective and the complexity of a syntax tree as a
+secondary measure. Furthermore, we study the expected time until
+population-based multi-objective genetic programming algorithms have computed
+the Pareto front when taking the complexity of a syntax tree as an equally
+important objective.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 04:22:36 GMT'}]",2012-03-23,"[['Neumann', 'Frank', '']]"
+330241,1203.4882,Keigo Takeuchi,"Keigo Takeuchi, Ralf R. Mueller, and Tsutomu Kawabata","Large-System Analysis of Joint User Selection and Vector Precoding with
+  Zero-Forcing Transmit Beamforming for MIMO Broadcast Channels",submitted to ISITA2012,,,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Multiple-input multiple-output (MIMO) broadcast channels (BCs) (MIMO-BCs)
+with perfect channel state information (CSI) at the transmitter are considered.
+As joint user selection (US) and vector precoding (VP) (US-VP) with
+zero-forcing transmit beamforming (ZF-BF), US and continuous VP (CVP) (US-CVP)
+and data-dependent US (DD-US) are investigated. The replica method, developed
+in statistical physics, is used to analyze the energy penalties for the two
+US-VP schemes in the large-system limit, where the number of users, the number
+of selected users, and the number of transmit antennas tend to infinity with
+their ratios kept constant. Four observations are obtained in the large-system
+limit: First, the assumptions of replica symmetry (RS) and 1-step replica
+symmetry breaking (1RSB) for DD-US can provide acceptable approximations for
+low and moderate system loads, respectively. Secondly, DD-US outperforms CVP
+with random US in terms of the energy penalty for low-to-moderate system loads.
+Thirdly, the asymptotic energy penalty of DD-US is indistinguishable from that
+of US-CVP for low system loads. Finally, a greedy algorithm of DD-US proposed
+in authors' previous work can achieve nearly optimal performance for
+low-to-moderate system loads.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 04:22:46 GMT'}, {'version': 'v2', 'created': 'Wed, 18 Apr 2012 02:39:08 GMT'}]",2012-04-19,"[['Takeuchi', 'Keigo', ''], ['Mueller', 'Ralf R.', ''], ['Kawabata', 'Tsutomu', '']]"
+330244,1203.4885,Abel Molina,Abel Molina,Parallel Repetition of Prover-Verifier Quantum Interactions,Chapter 5 includes results from arXiv 1104.1140,,,,quant-ph cs.CC,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this thesis, we answer several questions about the behaviour of
+prover-verifier interactions under parallel repetition when quantum information
+is allowed, and the verifier acts independently in them.
+  We first consider the case in which a value is associated with each of the
+possible outcomes of an interaction. We prove that it is not possible for the
+prover to improve on the optimum average value per repetition by repeating the
+protocol multiple times in parallel.
+  We look then at games in which the outcomes are classified into two types,
+winning outcomes and losing outcomes. We ask what is the optimal probability
+for the prover of winning at least k times out of n parallel repetitions, given
+that the optimal probability of winning when only one repetition is considered
+is $p$. A reasonable conjecture for the answer would be \sum_{m \geq k} {n
+\choose m} p^m (1-p)^{n-m}, as that is the answer when it is optimal for the
+prover to act independently. This is known to be the correct answer when k=n,
+and also in the classical case. It is also correct in some generalizations of
+the classical case that we will discuss later. We will show how this cannot be
+extended to all cases, presenting an example of an interaction with k=1,n=2 in
+which p\approx 0.85, but it is possible to always win at least once. We will
+then give some upper bounds on the optimal probability for the prover of
+winning k times out of n parallel repetitions. These bounds are expressed as a
+function of p.
+  Finally, we will connect our results to the study of error reduction for
+quantum interactive proofs using parallel repetition.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 04:53:59 GMT'}]",2012-03-23,"[['Molina', 'Abel', '']]"
+330259,1203.49,Michael Kapralov,Ashish Goel and Michael Kapralov and Ian Post,Single pass sparsification in the streaming model with edge deletions,,,,,cs.DS,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this paper we give a construction of cut sparsifiers of Benczur and Karger
+in the {\em dynamic} streaming setting in a single pass over the data stream.
+Previous constructions either required multiple passes or were unable to handle
+edge deletions. We use $\tilde{O}(1/\e^2)$ time for each stream update and
+$\tilde{O}(n/\e^2)$ time to construct a sparsifier. Our $\e$-sparsifiers have
+$O(n\log^3 n/\e^2)$ edges. The main tools behind our result are an application
+of sketching techniques of Ahn et al.[SODA'12] to estimate edge connectivity
+together with a novel application of sampling with limited independence and
+sparse recovery to produce the edges of the sparsifier.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 07:45:13 GMT'}]",2012-03-23,"[['Goel', 'Ashish', ''], ['Kapralov', 'Michael', ''], ['Post', 'Ian', '']]"
+330262,1203.4903,Edith Cohen,Edith Cohen,Distance Queries from Sampled Data: Accurate and Efficient,13 pages; This is a full version of a KDD 2014 paper,,,,cs.DS cs.DB math.ST stat.TH,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Distance queries are a basic tool in data analysis. They are used for
+detection and localization of change for the purpose of anomaly detection,
+monitoring, or planning. Distance queries are particularly useful when data
+sets such as measurements, snapshots of a system, content, traffic matrices,
+and activity logs are collected repeatedly.
+  Random sampling, which can be efficiently performed over streamed or
+distributed data, is an important tool for scalable data analysis. The sample
+constitutes an extremely flexible summary, which naturally supports domain
+queries and scalable estimation of statistics, which can be specified after the
+sample is generated. The effectiveness of a sample as a summary, however,
+hinges on the estimators we have.
+  We derive novel estimators for estimating $L_p$ distance from sampled data.
+Our estimators apply with the most common weighted sampling schemes: Poisson
+Probability Proportional to Size (PPS) and its fixed sample size variants. They
+also apply when the samples of different data sets are independent or
+coordinated. Our estimators are admissible (Pareto optimal in terms of
+variance) and have compelling properties.
+  We study the performance of our Manhattan and Euclidean distance ($p=1,2$)
+estimators on diverse datasets, demonstrating scalability and accuracy even
+when a small fraction of the data is sampled. Our work, for the first time,
+facilitates effective distance estimation over sampled data.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 08:06:09 GMT'}, {'version': 'v2', 'created': 'Fri, 15 Feb 2013 20:10:58 GMT'}, {'version': 'v3', 'created': 'Sun, 8 Jun 2014 13:06:42 GMT'}]",2015-03-20,"[['Cohen', 'Edith', '']]"
+330271,1203.4912,Sean Fulop,Sean A. Fulop,A survey of proof nets and matrices for substructural logics,,,,,cs.LO,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This paper is a survey of two kinds of ""compressed"" proof schemes, the
+\emph{matrix method} and \emph{proof nets}, as applied to a variety of logics
+ranging along the substructural hierarchy from classical all the way down to
+the nonassociative Lambek system. A novel treatment of proof nets for the
+latter is provided. Descriptions of proof nets and matrices are given in a
+uniform notation based on sequents, so that the properties of the schemes for
+the various logics can be easily compared.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 08:40:29 GMT'}]",2012-03-23,"[['Fulop', 'Sean A.', '']]"
+330272,1203.4913,Lei Li,"Lei Li, Sihai Zhang, Kaiwei Wang, Wuyang Zhou","Combined Channel Aggregation and Fragmentation Strategy in Cognitive
+  Radio Networks","6 pages, 7 figures",,,,cs.NI,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In cognitive radio networks, channel aggregation (CA) and channel
+fragmentation (CF) techniques have been proposed to enhance the spectrum
+utilization. While most of the literature studies CA and CF independently, in
+this paper we combine CA and CF innovatively and present a new spectrum sharing
+strategy named CAF (Channel Aggregation and Fragmentation). We elaborate on the
+proposed CAF strategy and derive the balance equation by a continuous time
+Markov chain (CTMC) model. Then various system performance metrics including
+blocking probability, dropping probability, spectrum utilization and throughput
+of the secondary network are evaluated. Both analytical and simulation results
+show that our strategy lowers the blocking and dropping probabilities and
+enhances the spectrum utilization and throughput effectively. Moreover, by
+tuning the bandwidth requirement of each secondary user, different system
+performance can be achieved.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 08:43:38 GMT'}, {'version': 'v2', 'created': 'Wed, 13 Jun 2012 07:30:53 GMT'}]",2012-06-14,"[['Li', 'Lei', ''], ['Zhang', 'Sihai', ''], ['Wang', 'Kaiwei', ''], ['Zhou', 'Wuyang', '']]"
+330276,1203.4917,Basile Morcrette,"Basile Morcrette (LIP6, INRIA Rocquencourt)",Fully Analyzing an Algebraic Polya Urn Model,"LATIN 2012, Arequipa : Peru (2012)",,,,math.CO cs.DM math.PR,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This paper introduces and analyzes a particular class of Polya urns: balls
+are of two colors, can only be added (the urns are said to be additive) and at
+every step the same constant number of balls is added, thus only the color
+compositions varies (the urns are said to be balanced). These properties make
+this class of urns ideally suited for analysis from an ""analytic combinatorics""
+point-of-view, following in the footsteps of Flajolet-Dumas-Puyhaubert, 2006.
+Through an algebraic generating function to which we apply a multiple
+coalescing saddle-point method, we are able to give precise asymptotic results
+for the probability distribution of the composition of the urn, as well as
+local limit law and large deviation bounds.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 08:53:16 GMT'}]",2012-03-26,"[['Morcrette', 'Basile', '', 'LIP6, INRIA Rocquencourt']]"
+330279,1203.492,Livio Colussi,Livio Colussi,"Work function algorithm can forget history without losing
+  competitiveness",,,,,cs.DS,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  The Work Function Algorithm is the most effective deterministic on-line
+algorithm for the k-server problem. Koutsoupias and Papadimitriou proved WFA is
+(2k-1) competitive. However the best known implementation of WFA requires time
+O(i^2) to process request r_i and this makes WFA impractical for long sequences
+of requests. The O(i^2) time is spent to compute the work function on the whole
+history of past requests. In order to make constant the time to process a
+request, Rudec and Menger proposed to restrict the history to a moving window
+of fixed size. However WFA restricted to a moving window loses its
+competitiveness. Here we give a condition that allows WFA to forget the whole
+previous history and restart from scratch without losing competitiveness.
+Moreover for most of the metric spaces of practical interest (finite or bounded
+spaces) there is a constant bound on the length of the history before the
+condition is verified and this makes O(1) the time to process each request.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 08:56:12 GMT'}]",2012-03-23,"[['Colussi', 'Livio', '']]"
+330283,1203.4924,Mikel Hernaez Mr.,"Mikel Hernaez, Pedro M. crespo, Javier Del Ser",A Flexible Channel Coding Approach for Short-Length Codewords,4 pages; submitted to IEEE Communications Letters,,10.1109/LCOMM.2012.073112.121295,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This letter introduces a novel channel coding design framework for
+short-length codewords that permits balancing the tradeoff between the bit
+error rate floor and waterfall region by modifying a single real-valued
+parameter. The proposed approach is based on combining convolutional coding
+with a $q$-ary linear combination and unequal energy allocation, the latter
+being controlled by the aforementioned parameter. EXIT charts are used to shed
+light on the convergence characteristics of the associated iterative decoder,
+which is described in terms of factor graphs. Simulation results show that the
+proposed scheme is able to adjust its end-to-end error rate performance
+efficiently and easily, on the contrary to previous approaches that require a
+full code redesign when the error rate requirements of the application change.
+Simulations also show that, at mid-range bit-error rates, there is a small
+performance penalty with respect to the previous approaches. However, the EXIT
+chart analysis and the simulation results suggest that for very low bit-error
+rates the proposed system will exhibit lower error floors than previous
+approaches.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 09:10:29 GMT'}]",2016-11-17,"[['Hernaez', 'Mikel', ''], ['crespo', 'Pedro M.', ''], ['Del Ser', 'Javier', '']]"
+330289,1203.493,Francesco Dinuzzo,Francesco Dinuzzo,Kernels for linear time invariant system identification,,,,,cs.SY,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this paper, we study the problem of identifying the impulse response of a
+linear time invariant (LTI) dynamical system from the knowledge of the input
+signal and a finite set of noisy output observations. We adopt an approach
+based on regularization in a Reproducing Kernel Hilbert Space (RKHS) that takes
+into account both continuous and discrete time systems. The focus of the paper
+is on designing spaces that are well suited for temporal impulse response
+modeling. To this end, we construct and characterize general families of
+kernels that incorporate system properties such as stability, relative degree,
+absence of oscillatory behavior, smoothness, or delay. In addition, we discuss
+the possibility of automatically searching over these classes by means of
+kernel learning techniques, so as to capture different modes of the system to
+be identified.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 09:36:17 GMT'}, {'version': 'v2', 'created': 'Mon, 1 Jul 2013 12:20:48 GMT'}]",2015-03-20,"[['Dinuzzo', 'Francesco', '']]"
+330292,1203.4933,Kishorjit Nongmeikapam Mr.,"Kishorjit Nongmeikapam, Lairenlakpam Nonglenjaoba, Yumnam Nirmal and
+  Sivaji Bandyopadhyay","Reduplicated MWE (RMWE) helps in improving the CRF based Manipuri POS
+  Tagger","15 pages, 4 tables, 2 figures, the link
+  http://airccse.org/journal/jcsit/1011csit05.pdf. arXiv admin note: text
+  overlap with arXiv:1111.2399",,10.5121/ijitcs.2012.210,,cs.CL,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This paper gives a detail overview about the modified features selection in
+CRF (Conditional Random Field) based Manipuri POS (Part of Speech) tagging.
+Selection of features is so important in CRF that the better are the features
+then the better are the outputs. This work is an attempt or an experiment to
+make the previous work more efficient. Multiple new features are tried to run
+the CRF and again tried with the Reduplicated Multiword Expression (RMWE) as
+another feature. The CRF run with RMWE because Manipuri is rich of RMWE and
+identification of RMWE becomes one of the necessities to bring up the result of
+POS tagging. The new CRF system shows a Recall of 78.22%, Precision of 73.15%
+and F-measure of 75.60%. With the identification of RMWE and considering it as
+a feature makes an improvement to a Recall of 80.20%, Precision of 74.31% and
+F-measure of 77.14%.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 09:50:51 GMT'}]",2012-03-23,"[['Nongmeikapam', 'Kishorjit', ''], ['Nonglenjaoba', 'Lairenlakpam', ''], ['Nirmal', 'Yumnam', ''], ['Bandyopadhyay', 'Sivaji', '']]"
+330297,1203.4938,Luis Cabellos,Luis Cabellos,"Advanced Programming Platform for efficient use of Data Parallel
+  Hardware",7 pages,,,,cs.DC,http://creativecommons.org/licenses/by/3.0/,"  Graphics processing units (GPU) had evolved from a specialized hardware
+capable to render high quality graphics in games to a commodity hardware for
+effective processing blocks of data in a parallel schema. This evolution is
+particularly interesting for scientific groups, which traditionally use mainly
+CPU as a work horse, and now can profit of the arrival of GPU hardware to HPC
+clusters. This new GPU hardware promises a boost in peak performance, but it is
+not trivial to use. In this article a programming platform designed to promote
+a direct use of this specialized hardware is presented. This platform includes
+a visual editor of parallel data flows and it is oriented to the execution in
+distributed clusters with GPUs. Examples of application in two characteristic
+problems, Fast Fourier Transform and Image Compression, are also shown.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 09:54:58 GMT'}, {'version': 'v2', 'created': 'Fri, 23 Mar 2012 12:56:24 GMT'}]",2012-03-26,"[['Cabellos', 'Luis', '']]"
+330325,1203.4966,Amelia Carolina Sparavigna,A.C. Sparavigna and R. Marazzato,A tour about Isaac Newton's life,"Georeferencing, Satellite Maps, KML, XML, Acme Mapper, History of
+  Physics",,,,cs.OH physics.hist-ph physics.pop-ph,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Here we propose a tour about the life of Isaac Newton, using a georeferenced
+method, based on the free satellite maps. Our tour is modelled on the time-line
+of the great scientist's life, as an ancient ""itinerarium"" was modelled on the
+Roman roads, providing a listing of places and intervening distances, sometimes
+with short description or symbols concerning the places. KML language and
+Google Earth, with its Street View and 3D images are powerful tools to create
+this virtual tour.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 11:54:52 GMT'}]",2012-03-23,"[['Sparavigna', 'A. C.', ''], ['Marazzato', 'R.', '']]"
+330347,1203.4988,Aleks Kissinger,Bob Coecke and Ross Duncan and Aleks Kissinger and Quanlong Wang,Strong Complementarity and Non-locality in Categorical Quantum Mechanics,15 pages (incl. 5 appendix). To appear: LiCS 2012,,10.1109/LICS.2012.35,,quant-ph cs.LO math.CT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Categorical quantum mechanics studies quantum theory in the framework of
+dagger-compact closed categories.
+  Using this framework, we establish a tight relationship between two key
+quantum theoretical notions: non-locality and complementarity. In particular,
+we establish a direct connection between Mermin-type non-locality scenarios,
+which we generalise to an arbitrary number of parties, using systems of
+arbitrary dimension, and performing arbitrary measurements, and a new stronger
+notion of complementarity which we introduce here.
+  Our derivation of the fact that strong complementarity is a necessary
+condition for a Mermin scenario provides a crisp operational interpretation for
+strong complementarity. We also provide a complete classification of strongly
+complementary observables for quantum theory, something which has not yet been
+achieved for ordinary complementarity.
+  Since our main results are expressed in the (diagrammatic) language of
+dagger-compact categories, they can be applied outside of quantum theory, in
+any setting which supports the purely algebraic notion of strongly
+complementary observables. We have therefore introduced a method for discussing
+non-locality in a wide variety of models in addition to quantum theory.
+  The diagrammatic calculus substantially simplifies (and sometimes even
+trivialises) many of the derivations, and provides new insights. In particular,
+the diagrammatic computation of correlations clearly shows how local
+measurements interact to yield a global overall effect. In other words, we
+depict non-locality.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 13:46:33 GMT'}, {'version': 'v2', 'created': 'Fri, 27 Apr 2012 12:30:49 GMT'}]",2013-06-20,"[['Coecke', 'Bob', ''], ['Duncan', 'Ross', ''], ['Kissinger', 'Aleks', ''], ['Wang', 'Quanlong', '']]"
+330363,1203.5004,Colm \'O D\'unlaing,Colm O. Dunlaing,CUDA implementation of Wagener's 2D convex hull PRAM algorithm,,,,,cs.DC,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This paper describes a CUDA implementation of Wagener's PRAM convex hull
+algorithm in two dimensions. It is presented in Knuth's literate programming
+style.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 14:30:25 GMT'}, {'version': 'v2', 'created': 'Fri, 23 Mar 2012 10:02:35 GMT'}]",2012-03-26,"[['Dunlaing', 'Colm O.', '']]"
+330385,1203.5026,Kuang Xu,Kuang Xu,On the Power of Centralization in Distributed Processing,,,,,cs.DC cs.NI cs.PF math.PR,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this thesis, we propose and analyze a multi-server model that captures a
+performance trade-off between centralized and distributed processing. In our
+model, a fraction $p$ of an available resource is deployed in a centralized
+manner (e.g., to serve a most-loaded station) while the remaining fraction
+$1-p$ is allocated to local servers that can only serve requests addressed
+specifically to their respective stations.
+  Using a fluid model approach, we demonstrate a surprising phase transition in
+the steady-state delay, as $p$ changes: in the limit of a large number of
+stations, and when any amount of centralization is available ($p>0$), the
+average queue length in steady state scales as $\log_{1/(1-p)} 1/(1-\lambda)$
+when the traffic intensity $\lambda$ goes to 1. This is exponentially smaller
+than the usual M/M/1-queue delay scaling of $1/(1-\lambda)$, obtained when all
+resources are fully allocated to local stations ($p=0$). This indicates a
+strong qualitative impact of even a small degree of centralization.
+  We prove convergence to a fluid limit, and characterize both the transient
+and steady-state behavior of the finite system, in the limit as the number of
+stations $N$ goes to infinity. We show that the sequence of queue-length
+processes converges to a unique fluid trajectory (over any finite time
+interval, as $N$ approaches infinity, and that this fluid trajectory converges
+to a unique invariant state $v^I$, for which a simple closed-form expression is
+obtained. We also show that the steady-state distribution of the $N$-server
+system concentrates on $v^I$ as $N$ goes to infinity.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 16:05:33 GMT'}]",2012-03-23,"[['Xu', 'Kuang', '']]"
+330387,1203.5028,Abdoun Otman AO,"Otman Abdoun, Chakir Tajani and Jaafar Abouchabka","Hybridizing PSM and RSM Operator for Solving NP-Complete Problems:
+  Application to Travelling Salesman Problem",ISSN (Online): 1694-0814,"IJCSI International Journal of Computer Science Issues, Vol. 9,
+  Issue 1, No 1, 2012, 374-378",,,cs.NE,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this paper, we present a new mutation operator, Hybrid Mutation (HPRM),
+for a genetic algorithm that generates high quality solutions to the Traveling
+Salesman Problem (TSP). The Hybrid Mutation operator constructs an offspring
+from a pair of parents by hybridizing two mutation operators, PSM and RSM. The
+efficiency of the HPRM is compared as against some existing mutation operators;
+namely, Reverse Sequence Mutation (RSM) and Partial Shuffle Mutation (PSM) for
+BERLIN52 as instance of TSPLIB. Experimental results show that the new mutation
+operator is better than the RSM and PSM.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 16:09:51 GMT'}]",2012-03-23,"[['Abdoun', 'Otman', ''], ['Tajani', 'Chakir', ''], ['Abouchabka', 'Jaafar', '']]"
+330396,1203.5037,Amer Baghdadi,"Salim Haddad, Amer Baghdadi, and Michel Jezequel",On the Convergence Speed of Turbo Demodulation with Turbo Decoding,"Submitted to IEEE Transactions on Signal Processing on April 27, 2011",,10.1109/TSP.2012.2198550,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Iterative processing is widely adopted nowadays in modern wireless receivers
+for advanced channel codes like turbo and LDPC codes. Extension of this
+principle with an additional iterative feedback loop to the demapping function
+has proven to provide substantial error performance gain. However, the adoption
+of iterative demodulation with turbo decoding is constrained by the additional
+implied implementation complexity, heavily impacting latency and power
+consumption. In this paper, we analyze the convergence speed of these combined
+two iterative processes in order to determine the exact required number of
+iterations at each level. Extrinsic information transfer (EXIT) charts are used
+for a thorough analysis at different modulation orders and code rates. An
+original iteration scheduling is proposed reducing two demapping iterations
+with reasonable performance loss of less than 0.15 dB. Analyzing and
+normalizing the computational and memory access complexity, which directly
+impact latency and power consumption, demonstrates the considerable gains of
+the proposed scheduling and the promising contributions of the proposed
+analysis.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 16:45:24 GMT'}]",2015-06-04,"[['Haddad', 'Salim', ''], ['Baghdadi', 'Amer', ''], ['Jezequel', 'Michel', '']]"
+330399,1203.504,"Esa Hyyti\""a","Esa Hyyti\""a, Samuli Aalto and Aleksi Penttinen","Minimizing Slowdown in Heterogeneous Size-Aware Dispatching Systems
+  (full version)","This is the full version of a paper with the same title that appears
+  in ACM SIGMETRICS 2012, with the inclusion of the appendix. 15 pages",,,,cs.PF,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We consider a system of parallel queues where tasks are assigned (dispatched)
+to one of the available servers upon arrival. The dispatching decision is based
+on the full state information, i.e., on the sizes of the new and existing jobs.
+We are interested in minimizing the so-called mean slowdown criterion
+corresponding to the mean of the sojourn time divided by the processing time.
+Assuming no new jobs arrive, the shortest-processing-time-product (SPTP)
+schedule is known to minimize the slowdown of the existing jobs. The main
+contribution of this paper is three-fold: 1) To show the optimality of SPTP
+with respect to slowdown in a single server queue under Poisson arrivals; 2) to
+derive the so-called size-aware value functions for
+M/G/1-FIFO/LIFO/SPTP/SPT/SRPT with general holding costs of which the slowdown
+criterion is a special case; and 3) to utilize the value functions to derive
+efficient dispatching policies so as to minimize the mean slowdown in a
+heterogeneous server system. The derived policies offer a significantly better
+performance than e.g., the size-aware-task-assignment with equal load (SITA-E)
+and least-work-left (LWL) policies.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 16:51:55 GMT'}]",2012-03-23,"[['Hyytiä', 'Esa', ''], ['Aalto', 'Samuli', ''], ['Penttinen', 'Aleksi', '']]"
+330410,1203.5051,Leon Derczynski,Leon Derczynski and Robert Gaizauskas,Analysing Temporally Annotated Corpora with CAVaT,,Proc. LREC (2010) 398-404,,,cs.CL,http://creativecommons.org/licenses/by/3.0/,"  We present CAVaT, a tool that performs Corpus Analysis and Validation for
+TimeML. CAVaT is an open source, modular checking utility for statistical
+analysis of features specific to temporally-annotated natural language corpora.
+It provides reporting, highlights salient links between a variety of general
+and time-specific linguistic features, and also validates a temporal annotation
+to ensure that it is logically consistent and sufficiently annotated. Uniquely,
+CAVaT provides analysis specific to TimeML-annotated temporal information.
+TimeML is a standard for annotating temporal information in natural language
+text. In this paper, we present the reporting part of CAVaT, and then its
+error-checking ability, including the workings of several novel TimeML document
+verification methods. This is followed by the execution of some example tasks
+using the tool to show relations between times, events, signals and links. We
+also demonstrate inconsistencies in a TimeML corpus (TimeBank) that have been
+detected with CAVaT.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 17:45:39 GMT'}]",2012-03-23,"[['Derczynski', 'Leon', ''], ['Gaizauskas', 'Robert', '']]"
+330414,1203.5055,Leon Derczynski,Leon Derczynski and Robert Gaizauskas,Using Signals to Improve Automatic Classification of Temporal Relations,,,,,cs.CL,http://creativecommons.org/licenses/by/3.0/,"  Temporal information conveyed by language describes how the world around us
+changes through time. Events, durations and times are all temporal elements
+that can be viewed as intervals. These intervals are sometimes temporally
+related in text. Automatically determining the nature of such relations is a
+complex and unsolved problem. Some words can act as ""signals"" which suggest a
+temporal ordering between intervals. In this paper, we use these signal words
+to improve the accuracy of a recent approach to classification of temporal
+links.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 17:50:08 GMT'}]",2012-03-23,"[['Derczynski', 'Leon', ''], ['Gaizauskas', 'Robert', '']]"
+330419,1203.506,Leon Derczynski,Leon Derczynski and Robert Gaizauskas,USFD2: Annotating Temporal Expresions and TLINKs for TempEval-2,Part of TempEval-2,"Proc. 5th International Workshop on Semantic Evaluation (2010)
+  337-340",,,cs.CL,http://creativecommons.org/licenses/by/3.0/,"  We describe the University of Sheffield system used in the TempEval-2
+challenge, USFD2. The challenge requires the automatic identification of
+temporal entities and relations in text. USFD2 identifies and anchors temporal
+expressions, and also attempts two of the four temporal relation assignment
+tasks. A rule-based system picks out and anchors temporal expressions, and a
+maximum entropy classifier assigns temporal link labels, based on features that
+include descriptions of associated temporal signal words. USFD2 identified
+temporal expressions successfully, and correctly classified their type in 90%
+of cases. Determining the relation between an event and time expression in the
+same sentence was performed at 63% accuracy, the second highest score in this
+part of the challenge.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 17:59:22 GMT'}]",2012-03-23,"[['Derczynski', 'Leon', ''], ['Gaizauskas', 'Robert', '']]"
+330421,1203.5062,Leon Derczynski,Leon Derczynski and Robert Gaizauskas,An Annotation Scheme for Reichenbach's Verbal Tense Structure,,"Proc. 6th Joint ACL-ISO Workshop on Interoperable Semantic
+  Annotation (2011) 10-17",,,cs.CL,http://creativecommons.org/licenses/by/3.0/,"  In this paper we present RTMML, a markup language for the tenses of verbs and
+temporal relations between verbs. There is a richness to tense in language that
+is not fully captured by existing temporal annotation schemata. Following
+Reichenbach we present an analysis of tense in terms of abstract time points,
+with the aim of supporting automated processing of tense and temporal relations
+in language. This allows for precise reasoning about tense in documents, and
+the deduction of temporal relations between the times and verbal events in a
+discourse. We define the syntax of RTMML, and demonstrate the markup in a range
+of situations.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 18:05:26 GMT'}]",2012-03-23,"[['Derczynski', 'Leon', ''], ['Gaizauskas', 'Robert', '']]"
+330425,1203.5066,Leon Derczynski,Leon Derczynski and Robert Gaizauskas,A Corpus-based Study of Temporal Signals,Proc. Corpus Linguistics (2011),"Proceedings of the 6th Conference on Corpus Linguistics (2011),
+  No. 197, pp. 1--8",,,cs.CL,http://creativecommons.org/licenses/by/3.0/,"  Automatic temporal ordering of events described in discourse has been of
+great interest in recent years. Event orderings are conveyed in text via va
+rious linguistic mechanisms including the use of expressions such as ""before"",
+""after"" or ""during"" that explicitly assert a temporal relation -- temporal
+signals. In this paper, we investigate the role of temporal signals in temporal
+relation extraction and provide a quantitative analysis of these expres sions
+in the TimeBank annotated corpus.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 18:08:47 GMT'}]",2013-01-25,"[['Derczynski', 'Leon', ''], ['Gaizauskas', 'Robert', '']]"
+330428,1203.5069,Gabriel Tucci,Gabriel H. Tucci,Random Regular Graphs are not Asymptotically Gromov Hyperbolic,"6 pages, 2 figures",,,,math.MG cs.NI math.CO,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this paper we prove that random $d$--regular graphs with $d\geq 3$ have
+traffic congestion of the order $O(n\log_{d-1}^{3}(n))$ where $n$ is the number
+of nodes and geodesic routing is used. We also show that these graphs are not
+asymptotically $\delta$--hyperbolic for any non--negative $\delta$ almost
+surely as $n\to\infty$.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 18:20:55 GMT'}]",2012-03-23,"[['Tucci', 'Gabriel H.', '']]"
+330432,1203.5073,Leon Derczynski,"Amev Burman, Arun Jayapal, Sathish Kannan, Madhu Kavilikatta, Ayman
+  Alhelbawy, Leon Derczynski, Robert Gaizauskas","USFD at KBP 2011: Entity Linking, Slot Filling and Temporal Bounding",Proc. Text Analysis Conference (2011),,,,cs.CL,http://creativecommons.org/licenses/by/3.0/,"  This paper describes the University of Sheffield's entry in the 2011 TAC KBP
+entity linking and slot filling tasks. We chose to participate in the
+monolingual entity linking task, the monolingual slot filling task and the
+temporal slot filling tasks. We set out to build a framework for
+experimentation with knowledge base population. This framework was created, and
+applied to multiple KBP tasks. We demonstrated that our proposed framework is
+effective and suitable for collaborative development efforts, as well as useful
+in a teaching environment. Finally we present results that, while very modest,
+provide improvements an order of magnitude greater than our 2010 attempt.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 18:34:19 GMT'}]",2012-03-23,"[['Burman', 'Amev', ''], ['Jayapal', 'Arun', ''], ['Kannan', 'Sathish', ''], ['Kavilikatta', 'Madhu', ''], ['Alhelbawy', 'Ayman', ''], ['Derczynski', 'Leon', ''], ['Gaizauskas', 'Robert', '']]"
+330435,1203.5076,Leon Derczynski,Leon Derczynski and H\'ector Llorens and Estela Saquete,Massively Increasing TIMEX3 Resources: A Transduction Approach,Proc. LREC (2012),"Proceedings of the 8th international conference on Language
+  Resources and Evaluation (2012), pp. 3754-3761",,,cs.CL,http://creativecommons.org/licenses/by/3.0/,"  Automatic annotation of temporal expressions is a research challenge of great
+interest in the field of information extraction. Gold standard
+temporally-annotated resources are limited in size, which makes research using
+them difficult. Standards have also evolved over the past decade, so not all
+temporally annotated data is in the same format. We vastly increase available
+human-annotated temporal expression resources by converting older format
+resources to TimeML/TIMEX3. This task is difficult due to differing annotation
+methods. We present a robust conversion tool and a new, large temporal
+expression resource. Using this, we evaluate our conversion process by using it
+as training data for an existing TimeML annotation tool, achieving a 0.87 F1
+measure -- better than any system in the TempEval-2 timex recognition exercise.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 18:45:07 GMT'}]",2012-11-13,"[['Derczynski', 'Leon', ''], ['Llorens', 'Héctor', ''], ['Saquete', 'Estela', '']]"
+330437,1203.5078,Tranos Zuva,"Tranos Zuva, Oludayo O. Olugbara, Sunday O. Ojo and Seleman M. Ngwira","Kernel Density Feature Points Estimator for Content-Based Image
+  Retrieval",ISSN 0975-5578 (Online) 0975-5934 (Print),"Signal & Image Processing: An International Journal (SIPIJ), Vol.4
+  No 1, February 2012, Pages: 103-111",,,cs.CV,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Research is taking place to find effective algorithms for content-based image
+representation and description. There is a substantial amount of algorithms
+available that use visual features (color, shape, texture). Shape feature has
+attracted much attention from researchers that there are many shape
+representation and description algorithms in literature. These shape image
+representation and description algorithms are usually not application
+independent or robust, making them undesirable for generic shape description.
+This paper presents an object shape representation using Kernel Density Feature
+Points Estimator (KDFPE). In this method, the density of feature points within
+defined rings around the centroid of the image is obtained. The KDFPE is then
+applied to the vector of the image. KDFPE is invariant to translation, scale
+and rotation. This method of image representation shows improved retrieval rate
+when compared to Density Histogram Feature Points (DHFP) method. Analytic
+analysis is done to justify our method, which was compared with the DHFP to
+prove its robustness.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 18:47:57 GMT'}]",2012-03-23,"[['Zuva', 'Tranos', ''], ['Olugbara', 'Oludayo O.', ''], ['Ojo', 'Sunday O.', ''], ['Ngwira', 'Seleman M.', '']]"
+330443,1203.5084,Leon Derczynski,"Leon Derczynski, Jun Wang, Robert Gaizauskas and Mark A. Greenwood",A Data Driven Approach to Query Expansion in Question Answering,,Proc. IR4QA Workshop (2008) 34-41,,,cs.CL cs.IR,http://creativecommons.org/licenses/by/3.0/,"  Automated answering of natural language questions is an interesting and
+useful problem to solve. Question answering (QA) systems often perform
+information retrieval at an initial stage. Information retrieval (IR)
+performance, provided by engines such as Lucene, places a bound on overall
+system performance. For example, no answer bearing documents are retrieved at
+low ranks for almost 40% of questions.
+  In this paper, answer texts from previous QA evaluations held as part of the
+Text REtrieval Conferences (TREC) are paired with queries and analysed in an
+attempt to identify performance-enhancing words. These words are then used to
+evaluate the performance of a query expansion method.
+  Data driven extension words were found to help in over 70% of difficult
+questions. These words can be used to improve and evaluate query expansion
+methods. Simple blind relevance feedback (RF) was correctly predicted as
+unlikely to help overall performance, and an possible explanation is provided
+for its low value in IR for QA.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 19:19:02 GMT'}]",2012-03-23,"[['Derczynski', 'Leon', ''], ['Wang', 'Jun', ''], ['Gaizauskas', 'Robert', ''], ['Greenwood', 'Mark A.', '']]"
+330445,1203.5086,Svetlana Poroseva,Svetlana V. Poroseva,"""Selfish"" algorithm for optimizing the network survivability analysis","31 pages, 2 tables, 7 figures","J. Optimization and Engineering, December 2012",10.1007/s11081-012-9207-1.,,physics.soc-ph cond-mat.stat-mech cs.SI,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In Nature, the primary goal of any network is to survive. This is less
+obvious for engineering networks (electric power, gas, water, transportation
+systems etc.) that are expected to operate under normal conditions most of
+time. As a result, the ability of a network to withstand massive sudden damage
+caused by adverse events (or survivability) has not been among traditional
+goals in the network design. Reality, however, calls for the adjustment of
+design priorities. As modern networks develop toward increasing their size,
+complexity, and integration, the likelihood of adverse events increases too due
+to technological development, climate change, and activities in the political
+arena among other factors. Under such circumstances, a network failure has an
+unprecedented effect on lives and economy. To mitigate the impact of adverse
+events on the network operability, the survivability analysis must be conducted
+at the early stage of the network design. Such analysis requires the
+development of new analytical and computational tools. Computational analysis
+of the network survivability is the exponential time problem at least. The
+current paper describes a new algorithm, in which the reduction of the
+computational complexity is achieved by mapping an initial network topology
+with multiple sources and sinks onto a set of simpler smaller topologies with
+multiple sources and a single sink. Steps for further reducing the time and
+space expenses of computations are also discussed.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 19:24:48 GMT'}]",2020-10-02,"[['Poroseva', 'Svetlana V.', '']]"
+330458,1203.5099,Saeed Alaei,"Saeed Alaei, Hu Fu, Nima Haghpanah, Jason Hartline, Azarakhsh Malekian",Bayesian Optimal Auctions via Multi- to Single-agent Reduction,,,,,cs.GT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We study an abstract optimal auction problem for a single good or service.
+This problem includes environments where agents have budgets, risk preferences,
+or multi-dimensional preferences over several possible configurations of the
+good (furthermore, it allows an agent's budget and risk preference to be known
+only privately to the agent). These are the main challenge areas for auction
+theory. A single-agent problem is to optimize a given objective subject to a
+constraint on the maximum probability with which each type is allocated,
+a.k.a., an allocation rule. Our approach is a reduction from multi-agent
+mechanism design problem to collection of single-agent problems. We focus on
+maximizing revenue, but our results can be applied to other objectives (e.g.,
+welfare).
+  An optimal multi-agent mechanism can be computed by a linear/convex program
+on interim allocation rules by simultaneously optimizing several single-agent
+mechanisms subject to joint feasibility of the allocation rules. For
+single-unit auctions, Border \citeyearpar{B91} showed that the space of all
+jointly feasible interim allocation rules for $n$ agents is a
+$\NumTypes$-dimensional convex polytope which can be specified by $2^\NumTypes$
+linear constraints, where $\NumTypes$ is the total number of all agents' types.
+Consequently, efficiently solving the mechanism design problem requires a
+separation oracle for the feasibility conditions and also an algorithm for
+ex-post implementation of the interim allocation rules. We show that the
+polytope of jointly feasible interim allocation rules is the projection of a
+higher dimensional polytope which can be specified by only $O(\NumTypes^2)$
+linear constraints. Furthermore, our proof shows that finding a preimage of the
+interim allocation rules in the higher dimensional polytope immediately gives
+an ex-post implementation.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 19:59:22 GMT'}]",2012-03-23,"[['Alaei', 'Saeed', ''], ['Fu', 'Hu', ''], ['Haghpanah', 'Nima', ''], ['Hartline', 'Jason', ''], ['Malekian', 'Azarakhsh', '']]"
+330460,1203.5101,Haye Hinrichsen,Haye Hinrichsen,Entropy-based Tuning of Musical Instruments,"13 pages, 9 figures","Rev. Bras. Ens. Fis. 34(2) (2012), 2301",,,physics.class-ph cs.SD physics.pop-ph,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  The human sense of hearing perceives a combination of sounds 'in tune' if the
+corresponding harmonic spectra are correlated, meaning that the neuronal
+excitation pattern in the inner ear exhibits some kind of order. Based on this
+observation it is suggested that musical instruments such as pianos can be
+tuned by minimizing the Shannon entropy of suitably preprocessed Fourier
+spectra. This method reproduces not only the correct stretch curve but also
+similar pitch fluctuations as in the case of high-quality aural tuning.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 07:21:53 GMT'}, {'version': 'v2', 'created': 'Mon, 2 Apr 2012 20:31:02 GMT'}]",2012-04-10,"[['Hinrichsen', 'Haye', '']]"
+330480,1203.5121,Takahito Aoto,"Takahito Aoto (Tohoku University), Yoshihito Toyama (Tohoku
+  University)","A Reduction-Preserving Completion for Proving Confluence of
+  Non-Terminating Term Rewriting Systems",,"Logical Methods in Computer Science, Volume 8, Issue 1 (March 28,
+  2012) lmcs:667",10.2168/LMCS-8(1:31)2012,,cs.LO,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We give a method to prove confluence of term rewriting systems that contain
+non-terminating rewrite rules such as commutativity and associativity. Usually,
+confluence of term rewriting systems containing such rules is proved by
+treating them as equational term rewriting systems and considering E-critical
+pairs and/or termination modulo E. In contrast, our method is based solely on
+usual critical pairs and it also (partially) works even if the system is not
+terminating modulo E. We first present confluence criteria for term rewriting
+systems whose rewrite rules can be partitioned into a terminating part and a
+possibly non-terminating part. We then give a reduction-preserving completion
+procedure so that the applicability of the criteria is enhanced. In contrast to
+the well-known Knuth-Bendix completion procedure which preserves the
+equivalence relation of the system, our completion procedure preserves the
+reduction relation of the system, by which confluence of the original system is
+inferred from that of the completed system.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 20:41:24 GMT'}, {'version': 'v2', 'created': 'Tue, 27 Mar 2012 19:31:46 GMT'}]",2015-07-01,"[['Aoto', 'Takahito', '', 'Tohoku University'], ['Toyama', 'Yoshihito', '', 'Tohoku\n  University']]"
+330483,1203.5124,Liang Zhang,"Rajiv Khanna, Liang Zhang, Deepak Agarwal, Beechung Chen",Parallel Matrix Factorization for Binary Response,,,,,cs.LG stat.AP,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Predicting user affinity to items is an important problem in applications
+like content optimization, computational advertising, and many more. While
+bilinear random effect models (matrix factorization) provide state-of-the-art
+performance when minimizing RMSE through a Gaussian response model on explicit
+ratings data, applying it to imbalanced binary response data presents
+additional challenges that we carefully study in this paper. Data in many
+applications usually consist of users' implicit response that are often binary
+-- clicking an item or not; the goal is to predict click rates, which is often
+combined with other measures to calculate utilities to rank items at runtime of
+the recommender systems. Because of the implicit nature, such data are usually
+much larger than explicit rating data and often have an imbalanced distribution
+with a small fraction of click events, making accurate click rate prediction
+difficult. In this paper, we address two problems. First, we show previous
+techniques to estimate bilinear random effect models with binary data are less
+accurate compared to our new approach based on adaptive rejection sampling,
+especially for imbalanced response. Second, we develop a parallel bilinear
+random effect model fitting framework using Map-Reduce paradigm that scales to
+massive datasets. Our parallel algorithm is based on a ""divide and conquer""
+strategy coupled with an ensemble approach. Through experiments on the
+benchmark MovieLens data, a small Yahoo! Front Page data set, and a large
+Yahoo! Front Page data set that contains 8M users and 1B binary observations,
+we show that careful handling of binary response as well as identifiability
+issues are needed to achieve good performance for click rate prediction, and
+that the proposed adaptive rejection sampler and the partitioning as well as
+ensemble techniques significantly improve model performance.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 20:54:53 GMT'}]",2012-03-26,"[['Khanna', 'Rajiv', ''], ['Zhang', 'Liang', ''], ['Agarwal', 'Deepak', ''], ['Chen', 'Beechung', '']]"
+330485,1203.5126,VIkas Kawadia,Vikas Kawadia and Sameet Sreenivasan,"Online detection of temporal communities in evolving networks by
+  estrangement confinement",,"Scientific Reports 2, Article number: 794, Mar 2012",10.1038/srep00794,,cs.SI cond-mat.stat-mech physics.soc-ph,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Temporal communities result from a consistent partitioning of nodes across
+multiple snapshots of an evolving complex network that can help uncover how
+dense clusters in a network emerge, combine, split and decay with time. Current
+methods for finding communities in a single snapshot are not straightforwardly
+generalizable to finding temporal communities since the quality functions used
+for finding static communities have highly degenerate landscapes, and the
+eventual partition chosen among the many partitions of similar quality is
+highly sensitive to small changes in the network. To reliably detect temporal
+communities we need not only to find a good community partition in a given
+snapshot but also ensure that it bears some similarity to the partition(s)
+found in immediately preceding snapshots. We present a new measure of partition
+distance called ""estrangement"" motivated by the inertia of inter-node
+relationships which, when incorporated into the measurement of partition
+quality, facilitates the detection of meaningful temporal communities.
+Specifically, we propose the estrangement confinement method, which postulates
+that neighboring nodes in a community prefer to continue to share community
+affiliation as the network evolves. Constraining estrangement enables us to
+find meaningful temporal communities at various degrees of temporal smoothness
+in diverse real-world datasets. Specifically, we study the evolution of voting
+behavior of senators in the United States Congress, the evolution of proximity
+in human mobility datasets, and the detection of evolving communities in
+synthetic networks that are otherwise hard to find. Estrangement confinement
+thus provides a principled approach to uncovering temporal communities in
+evolving networks.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 21:03:28 GMT'}]",2015-03-20,"[['Kawadia', 'Vikas', ''], ['Sreenivasan', 'Sameet', '']]"
+330487,1203.5128,Kunal Narayan Chaudhury,Kunal N. Chaudhury,"Acceleration of the shiftable O(1) algorithm for bilateral filtering and
+  non-local means","10 figures, 6 tables","IEEE Transactions on Image Processing, vol. 22(4), pp. 1291- 1300,
+  2013",10.1109/TIP.2012.2222903,,cs.CV cs.DC,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  A direct implementation of the bilateral filter [1] requires O(\sigma_s^2)
+operations per pixel, where \sigma_s is the (effective) width of the spatial
+kernel. A fast implementation of the bilateral filter was recently proposed in
+[2] that required O(1) operations per pixel with respect to \sigma_s. This was
+done by using trigonometric functions for the range kernel of the bilateral
+filter, and by exploiting their so-called shiftability property. In particular,
+a fast implementation of the Gaussian bilateral filter was realized by
+approximating the Gaussian range kernel using raised cosines. Later, it was
+demonstrated in [3] that this idea could be extended to a larger class of
+filters, including the popular non-local means filter [4]. As already observed
+in [2], a flip side of this approach was that the run time depended on the
+width \sigma_r of the range kernel. For an image with (local) intensity
+variations in the range [0,T], the run time scaled as O(T^2/\sigma^2_r) with
+\sigma_r. This made it difficult to implement narrow range kernels,
+particularly for images with large dynamic range. We discuss this problem in
+this note, and propose some simple steps to accelerate the implementation in
+general, and for small \sigma_r in particular.
+  [1] C. Tomasi and R. Manduchi, ""Bilateral filtering for gray and color
+images"", Proc. IEEE International Conference on Computer Vision, 1998.
+  [2] K.N. Chaudhury, Daniel Sage, and M. Unser, ""Fast O(1) bilateral filtering
+using trigonometric range kernels"", IEEE Transactions on Image Processing,
+2011.
+  [3] K.N. Chaudhury, ""Constant-time filtering using shiftable kernels"", IEEE
+Signal Processing Letters, 2011.
+  [4] A. Buades, B. Coll, and J.M. Morel, ""A review of image denoising
+algorithms, with a new one"", Multiscale Modeling and Simulation, 2005.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 21:09:37 GMT'}, {'version': 'v2', 'created': 'Tue, 7 Aug 2012 18:57:45 GMT'}]",2015-06-04,"[['Chaudhury', 'Kunal N.', '']]"
+330514,1203.5155,Vasilis Syrgkanis,Vasilis Syrgkanis,Bayesian Games and the Smoothness Framework,,,,,cs.GT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We consider a general class of Bayesian Games where each players utility
+depends on his type (possibly multidimensional) and on the strategy profile and
+where players' types are distributed independently. We show that if their full
+information version for any fixed instance of the type profile is a smooth game
+then the Price of Anarchy bound implied by the smoothness property, carries
+over to the Bayes-Nash Price of Anarchy. We show how some proofs from the
+literature (item bidding auctions, greedy auctions) can be cast as smoothness
+proofs or be simplified using smoothness. For first price item bidding with
+fractionally subadditive bidders we actually manage to improve by much the
+existing result \cite{Hassidim2011a} from 4 to $\frac{e}{e-1}\approx 1.58$.
+This also shows a very interesting separation between first and second price
+item bidding since second price item bidding has PoA at least 2 even under
+complete information. For a larger class of Bayesian Games where the strategy
+space of a player also changes with his type we are able to show that a
+slightly stronger definition of smoothness also implies a Bayes-Nash PoA bound.
+We show how weighted congestion games actually satisfy this stronger definition
+of smoothness. This allows us to show that the inefficiency bounds of weighted
+congestion games known in the literature carry over to incomplete versions
+where the weights of the players are private information. We also show how an
+incomplete version of a natural class of monotone valid utility games, called
+effort market games are universally $(1,1)$-smooth. Hence, we show that
+incomplete versions of effort market games where the abilities of the players
+and their budgets are private information has Bayes-Nash PoA at most 2.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 02:24:35 GMT'}]",2012-03-26,"[['Syrgkanis', 'Vasilis', '']]"
+330515,1203.5156,KeeHoon Kim,"Kee-Hoon Kim, Hyun-Bae Jeon, Jong-Seon No, and Dong-Joon Shin","A New Low-Complexity Selected Mapping Scheme Using Cyclic Shifted IFFT
+  for PAPR Reduction in OFDM Systems",,,,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this paper, a new peak-to-average power ratio (PAPR) reduction scheme for
+orthogonal frequency division multiplexing (OFDM) is proposed based on the
+selected mapping (SLM) scheme. The proposed SLM scheme generates alternative
+OFDM signal sequences by cyclically shifting the connections in each subblock
+at an intermediate stage of inverse fast Fourier transform (IFFT). Compared
+with the conventional SLM scheme, the proposed SLM scheme achieves similar PAPR
+reduction performance with much lower computational complexity and no bit error
+rate (BER) degradation. The performance of the proposed SLM scheme is verified
+through numerical analysis. Also, it is shown that the proposed SLM scheme has
+the lowest computational complexity among the existing low-complexity SLM
+schemes exploiting the signals at an intermediate stage of IFFT.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 02:28:30 GMT'}]",2012-03-26,"[['Kim', 'Kee-Hoon', ''], ['Jeon', 'Hyun-Bae', ''], ['No', 'Jong-Seon', ''], ['Shin', 'Dong-Joon', '']]"
+330517,1203.5158,Cory Brunson,"Jason Cory Brunson, Steve Fassino, Antonio McInnes, Monisha Narayan,
+  Brianna Richardson, Christopher Franck, Patrick Ion, Reinhard Laubenbacher","Evolutionary Events in a Mathematical Sciences Research Collaboration
+  Network","30 pages, 14 figures, 1 table; supporting information: 5 pages, 5
+  figures; published in Scientometrics","Scientometrics, June 2014, Volume 99, Issue 3, pp 973-998",10.1007/s11192-013-1209-z,,physics.soc-ph cs.DL cs.SI math.HO,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This study examines long-term trends and shifting behavior in the
+collaboration network of mathematics literature, using a subset of data from
+Mathematical Reviews spanning 1985-2009. Rather than modeling the network
+cumulatively, this study traces the evolution of the ""here and now"" using
+fixed-duration sliding windows. The analysis uses a suite of common network
+diagnostics, including the distributions of degrees, distances, and clustering,
+to track network structure. Several random models that call these diagnostics
+as parameters help tease them apart as factors from the values of others. Some
+behaviors are consistent over the entire interval, but most diagnostics
+indicate that the network's structural evolution is dominated by occasional
+dramatic shifts in otherwise steady trends. These behaviors are not distributed
+evenly across the network; stark differences in evolution can be observed
+between two major subnetworks, loosely thought of as ""pure"" and ""applied"",
+which approximately partition the aggregate. The paper characterizes two major
+events along the mathematics network trajectory and discusses possible
+explanatory factors.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 02:37:55 GMT'}, {'version': 'v2', 'created': 'Wed, 4 Feb 2015 20:55:14 GMT'}]",2015-02-05,"[['Brunson', 'Jason Cory', ''], ['Fassino', 'Steve', ''], ['McInnes', 'Antonio', ''], ['Narayan', 'Monisha', ''], ['Richardson', 'Brianna', ''], ['Franck', 'Christopher', ''], ['Ion', 'Patrick', ''], ['Laubenbacher', 'Reinhard', '']]"
+330519,1203.516,Nikzad Babaii-Rizvandi,"Nikzad Babaii Rizvandi, Albert Y. Zomaya, Young Choon Lee, Ali
+  Javadzadeh Boloori, Javid Taheri","Multiple Frequency Selection in DVFS-Enabled Processors to Minimize
+  Energy Consumption","Chapter 17- Book title: ""Energy Efficient Distributed Computing"",
+  Edited by Albert Y.Zomaya, Young Choon Lee Wiley",,,,cs.DC,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this chapter we focus on slack reclamation and propose a new slack
+reclamation technique, Multiple Frequency Selection DVFS (MFS-DVFS). The key
+idea is to execute each task with a linear combination of more than one
+frequency such that this combination results in using the lowest energy by
+covering the whole slack time of the task. We have tested our algorithm with
+both random and real-world application task graphs and compared with the
+results in previous researches in [9] and [12-13]. The experimental results
+show that our approach can achieve energy almost identical to the optimum
+energy saving.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 02:42:38 GMT'}, {'version': 'v2', 'created': 'Tue, 4 Sep 2012 00:30:17 GMT'}]",2012-09-05,"[['Rizvandi', 'Nikzad Babaii', ''], ['Zomaya', 'Albert Y.', ''], ['Lee', 'Young Choon', ''], ['Boloori', 'Ali Javadzadeh', ''], ['Taheri', 'Javid', '']]"
+330520,1203.5161,M\'arton P\'osfai,"M\'arton P\'osfai and Yang-Yu Liu and Jean-Jacques Slotine and
+  Albert-L\'aszl\'o Barab\'asi",Effect of correlations on network controllability,,"Sci. Rep. 3, 1067 (2013)",10.1038/srep01067,,physics.soc-ph cond-mat.stat-mech cs.SI cs.SY math.OC,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  A dynamical system is controllable if by imposing appropriate external
+signals on a subset of its nodes, it can be driven from any initial state to
+any desired state in finite time. Here we study the impact of various network
+characteristics on the minimal number of driver nodes required to control a
+network. We find that clustering and modularity have no discernible impact, but
+the symmetries of the underlying matching problem can produce linear, quadratic
+or no dependence on degree correlation coefficients, depending on the nature of
+the underlying correlations. The results are supported by numerical simulations
+and help narrow the observed gap between the predicted and the observed number
+of driver nodes in real networks.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 02:43:51 GMT'}, {'version': 'v2', 'created': 'Wed, 9 Jan 2013 10:53:02 GMT'}]",2013-01-16,"[['Pósfai', 'Márton', ''], ['Liu', 'Yang-Yu', ''], ['Slotine', 'Jean-Jacques', ''], ['Barabási', 'Albert-László', '']]"
+330528,1203.5169,Victoria Horan,Victoria Horan and Glenn Hurlbert,Universal Cycles for Weak Orders,12 pages; final version,,,,math.CO cs.DM,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Universal cycles are generalizations of de Bruijn cycles and Gray codes that
+were introduced originally by Chung, Diaconis, and Graham in 1990. They have
+been developed by many authors since, for various combinatorial objects such as
+strings, subsets, permutations, partitions, vector spaces, and designs. One
+generalization of universal cycles, which require almost complete overlap of
+consecutive words, is s-overlap cycles, which relax such a constraint. In this
+paper we study weak orders, which are relations that are transitive and
+complete. We prove the existence of universal and s-overlap cycles for weak
+orders, as well as for fixed height and/or weight weak orders, and apply the
+results to cycles for ordered partitions as well.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 03:22:19 GMT'}, {'version': 'v2', 'created': 'Thu, 29 Mar 2012 21:28:12 GMT'}, {'version': 'v3', 'created': 'Wed, 11 Apr 2012 23:08:02 GMT'}, {'version': 'v4', 'created': 'Tue, 25 Jun 2013 13:00:25 GMT'}]",2013-06-26,"[['Horan', 'Victoria', ''], ['Hurlbert', 'Glenn', '']]"
+330540,1203.5181,Frank Nielsen,Frank Nielsen,$k$-MLE: A fast algorithm for learning statistical mixture models,"31 pages, Extend preliminary paper presented at IEEE ICASSP 2012",,10.1109/ICASSP.2012.6288022,,cs.LG stat.ML,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We describe $k$-MLE, a fast and efficient local search algorithm for learning
+finite statistical mixtures of exponential families such as Gaussian mixture
+models. Mixture models are traditionally learned using the
+expectation-maximization (EM) soft clustering technique that monotonically
+increases the incomplete (expected complete) likelihood. Given prescribed
+mixture weights, the hard clustering $k$-MLE algorithm iteratively assigns data
+to the most likely weighted component and update the component models using
+Maximum Likelihood Estimators (MLEs). Using the duality between exponential
+families and Bregman divergences, we prove that the local convergence of the
+complete likelihood of $k$-MLE follows directly from the convergence of a dual
+additively weighted Bregman hard clustering. The inner loop of $k$-MLE can be
+implemented using any $k$-means heuristic like the celebrated Lloyd's batched
+or Hartigan's greedy swap updates. We then show how to update the mixture
+weights by minimizing a cross-entropy criterion that implies to update weights
+by taking the relative proportion of cluster points, and reiterate the mixture
+parameter update and mixture weight update processes until convergence. Hard EM
+is interpreted as a special case of $k$-MLE when both the component update and
+the weight update are performed successively in the inner loop. To initialize
+$k$-MLE, we propose $k$-MLE++, a careful initialization of $k$-MLE guaranteeing
+probabilistically a global bound on the best possible complete likelihood.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 06:11:24 GMT'}]",2016-11-15,"[['Nielsen', 'Frank', '']]"
+330543,1203.5184,Maxime Lenormand,"Maxime Lenormand (UR LISC), Sylvie Huet (UR LISC), Floriana Gargiulo
+  (INED), Guillaume Deffuant (UR LISC)",A Universal Model of Commuting Networks,"11 pages, 5 figures","PLoS ONE 7, e45985 (2012)",10.1371/journal.pone.0045985,,math.ST cs.SI physics.soc-ph stat.TH,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We test a recently proposed model of commuting networks on 80 case studies
+from different regions of the world (Europe and United-States) and with
+geographic units of different sizes (municipality, county, region). The model
+takes as input the number of commuters coming in and out of each geographic
+unit and generates the matrix of commuting flows betwen the geographic units.
+We show that the single parameter of the model, which rules the compromise
+between the influence of the distance and job opportunities, follows a
+universal law that depends only on the average surface of the geographic units.
+We verified that the law derived from a part of the case studies yields
+accurate results on other case studies. We also show that our model
+significantly outperforms the two other approaches proposing a universal
+commuting model (Balcan et al. (2009); Simini et al. (2012)), particularly when
+the geographic units are small (e.g. municipalities).
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 07:03:52 GMT'}, {'version': 'v2', 'created': 'Fri, 8 May 2015 11:12:52 GMT'}]",2018-12-27,"[['Lenormand', 'Maxime', '', 'UR LISC'], ['Huet', 'Sylvie', '', 'UR LISC'], ['Gargiulo', 'Floriana', '', 'INED'], ['Deffuant', 'Guillaume', '', 'UR LISC']]"
+330545,1203.5186,Jianfeng Hou,"Yue Guan, Jianfeng Hou, Yingyuan Yang",An improved bound on acyclic chromatic index of planar graphs,,,,,math.CO cs.DM,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Proper edge coloring of a graph $G$ is called acyclic if there is no
+bichromatic cycle in $G$. The acyclic chromatic index of $G$, denoted by
+$\chi'_a(G)$, is the least number of colors $k$ such that $G$ has an acyclic
+edge $k$-coloring. Basavaraju et al. [Acyclic edge-coloring of planar graphs,
+SIAM J. Discrete Math. 25 (2) (2011), 463--478] showed that $\chi'_a(G)\le
+\Delta(G)+12$ for planar graphs $G$ with maximum degree $\Delta(G)$. In this
+paper, the bound is improved to $\Delta(G)+10$.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 07:08:32 GMT'}]",2012-03-26,"[['Guan', 'Yue', ''], ['Hou', 'Jianfeng', ''], ['Yang', 'Yingyuan', '']]"
+330547,1203.5188,Martin Monperrus,"Stefan Hen{\ss}, Martin Monperrus (INRIA Lille - Nord Europe), Mira
+  Mezini","Semi-Automatically Extracting FAQs to Improve Accessibility of Software
+  Development Knowledge",ICSE - 34th International Conference on Software Engineering (2012),"ICSE - 34th International Conference on Software Engineering, 2012",10.1109/ICSE.2012.6227139,,cs.SE cs.CL cs.IR,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Frequently asked questions (FAQs) are a popular way to document software
+development knowledge. As creating such documents is expensive, this paper
+presents an approach for automatically extracting FAQs from sources of software
+development discussion, such as mailing lists and Internet forums, by combining
+techniques of text mining and natural language processing. We apply the
+approach to popular mailing lists and carry out a survey among software
+developers to show that it is able to extract high-quality FAQs that may be
+further improved by experts.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 07:13:06 GMT'}]",2018-07-06,"[['Henß', 'Stefan', '', 'INRIA Lille - Nord Europe'], ['Monperrus', 'Martin', '', 'INRIA Lille - Nord Europe'], ['Mezini', 'Mira', '']]"
+330555,1203.5196,Rajkumar Buyya,"Rajkumar Buyya, Suraj Pandey, and Christian Vecchiola",Market-Oriented Cloud Computing and the Cloudbus Toolkit,"43 pages, 10 figures",,,,cs.DC,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Cloud computing has penetrated the Information Technology industry deep
+enough to influence major companies to adopt it into their mainstream business.
+A strong thrust on the use of virtualization technology to realize
+Infrastructure-as-a-Service (IaaS) has led enterprises to leverage
+subscription-oriented computing capabilities of public Clouds for hosting their
+application services. In parallel, research in academia has been investigating
+transversal aspects such as security, software frameworks, quality of service,
+and standardization. We believe that the complete realization of the Cloud
+computing vision will lead to the introduction of a virtual market where Cloud
+brokers, on behalf of end users, are in charge of selecting and composing the
+services advertised by different Cloud vendors. In order to make this happen,
+existing solutions and technologies have to be redesigned and extended from a
+market-oriented perspective and integrated together, giving rise to what we
+term Market-Oriented Cloud Computing.
+  In this paper, we will assess the current status of Cloud computing by
+providing a reference model, discuss the challenges that researchers and IT
+practitioners are facing and will encounter in the near future, and present the
+approach for solving them from the perspective of the Cloudbus toolkit, which
+comprises of a set of technologies geared towards the realization of Market
+Oriented Cloud Computing vision. We provide experimental results demonstrating
+market-oriented resource provisioning and brokering within a Cloud and across
+multiple distributed resources. We also include an application illustrating the
+hosting of ECG analysis as SaaS on Amazon IaaS (EC2 and S3) services.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 08:50:57 GMT'}]",2012-03-26,"[['Buyya', 'Rajkumar', ''], ['Pandey', 'Suraj', ''], ['Vecchiola', 'Christian', '']]"
+330577,1203.5218,Robert J. Mokken,Robert J. Mokken,"Coteries, Social Circles and Hamlets Close Communities: A Study of
+  Acquaintance Networks","Keywords: Social networks, acquaintance networks, close communities,
+  cliques, k-clubs, 2-clubs, diameter 2, shortest spanning trees, girth",,,,cs.SI cs.DM math.CO physics.soc-ph,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In the analysis of social networks many relatively loose and heuristic
+definitions of 'community' abound. In this paper the concept of closely knit
+communities is studied as defined by the property that every pair of its
+members are neighbors or has at least one common neighbor, where the
+neighboring relationship is based on some more or less durable and stable
+acquaintance or contact relation. In this paper these are studied in the form
+of graphs or networks of diameter two (2-clubs). Their structure can be
+characterized by investigating shortest spanning trees and girth leading to a
+typology containing just three or, in combination, six types of close
+communities.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 11:50:45 GMT'}]",2012-03-26,"[['Mokken', 'Robert J.', '']]"
+330594,1203.5235,Bang Ye Wu,"Bang Ye Wu, Jun-Lin Guo, Yue-Li Wang","A linear time algorithm for the next-to-shortest path problem on
+  undirected graphs with nonnegative edge lengths",,,,,cs.DS,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  For two vertices $s$ and $t$ in a graph $G=(V,E)$, the next-to-shortest path
+is an $st$-path which length is minimum amongst all $st$-paths strictly longer
+than the shortest path length. In this paper we show that, when the graph is
+undirected and all edge lengths are nonnegative, the problem can be solved in
+linear time if the distances from $s$ and $t$ to all other vertices are given.
+This result generalizes the previous work (DOI 10.1007/s00453-011-9601-7) to
+allowing zero-length edges.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 13:33:47 GMT'}]",2012-03-26,"[['Wu', 'Bang Ye', ''], ['Guo', 'Jun-Lin', ''], ['Wang', 'Yue-Li', '']]"
+330603,1203.5244,Elodie Leducq,Elodie Leducq,Second weight codewords of generalized Reed-Muller codes,,,,,math.NT cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this paper we give the second weight codewords of the generalized
+Reed-Muller code of order r and length $q^m$.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 14:03:39 GMT'}, {'version': 'v2', 'created': 'Tue, 11 Sep 2012 15:56:22 GMT'}, {'version': 'v3', 'created': 'Mon, 22 Oct 2012 12:39:25 GMT'}]",2012-10-23,"[['Leducq', 'Elodie', '']]"
+330614,1203.5255,Youssef Bassil,"Youssef Bassil, Mohammad Alwani","Post-Editing Error Correction Algorithm for Speech Recognition using
+  Bing Spelling Suggestion","LACSC - Lebanese Association for Computational Sciences -
+  http://www.lacsc.org","International Journal of Advanced Computer Science and
+  Applications, Vol.3, No.2, February 2012",,,cs.CL,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  ASR short for Automatic Speech Recognition is the process of converting a
+spoken speech into text that can be manipulated by a computer. Although ASR has
+several applications, it is still erroneous and imprecise especially if used in
+a harsh surrounding wherein the input speech is of low quality. This paper
+proposes a post-editing ASR error correction method and algorithm based on
+Bing's online spelling suggestion. In this approach, the ASR recognized output
+text is spell-checked using Bing's spelling suggestion technology to detect and
+correct misrecognized words. More specifically, the proposed algorithm breaks
+down the ASR output text into several word-tokens that are submitted as search
+queries to Bing search engine. A returned spelling suggestion implies that a
+query is misspelled; and thus it is replaced by the suggested correction;
+otherwise, no correction is performed and the algorithm continues with the next
+token until all tokens get validated. Experiments carried out on various
+speeches in different languages indicated a successful decrease in the number
+of ASR errors and an improvement in the overall error correction rate. Future
+research can improve upon the proposed algorithm so much so that it can be
+parallelized to take advantage of multiprocessor computers.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 14:32:50 GMT'}]",2012-03-26,"[['Bassil', 'Youssef', ''], ['Alwani', 'Mohammad', '']]"
+330618,1203.5259,Youssef Bassil,"Youssef Bassil, Paul Semaan",Autonomic Model for Self-Configuring C#.NET Applications,"LACSC - Lebanese Association for Computational Sciences -
+  http://www.lacsc.org","International Journal of Research Studies in Computing, Vol.1,
+  No.1, pp.21-34, April 2012",,,cs.OH,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  With the advances in computational technologies over the last decade, large
+organizations have been investing in Information Technology to automate their
+internal processes to cut costs and efficiently support their business
+projects. However, this comes to a price. Business requirements always change.
+Likewise, IT systems constantly evolves as developers make new versions of
+them, which require endless administrative manual work to customize and
+configure them, especially if they are being used in different contexts, by
+different types of users, and for different requirements. Autonomic computing
+was conceived to provide an answer to these ever-changing requirements.
+Essentially, autonomic systems are self-configuring, self-healing,
+self-optimizing, and self-protecting; hence, they can automate all complex IT
+processes without human intervention. This paper proposes an autonomic model
+based on Venn diagram and set theory for self-configuring C#.NET applications,
+namely the self-customization of their GUI, event-handlers, and security
+permissions. The proposed model does not require altering the source-code of
+the original application; rather, it uses an XML-based customization file to
+turn on and off the internal attributes of the application. Experiments
+conducted on the proposed model, showed a successful automatic customization
+for C# applications and an effective self-adaption based on dynamic business
+requirements. As future work, other programming languages such as Java and C++
+are to be supported, in addition to other operating systems such as Linux and
+Mac so as to provide a standard platform-independent autonomic self-configuring
+model.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 14:39:07 GMT'}]",2012-03-26,"[['Bassil', 'Youssef', ''], ['Semaan', 'Paul', '']]"
+330621,1203.5262,Youssef Bassil,"Youssef Bassil, Paul Semaan",ASR Context-Sensitive Error Correction Based on Microsoft N-Gram Dataset,"LACSC - Lebanese Association for Computational Sciences -
+  http://www.lacsc.org","Journal of Computing, Vol.4, No.1, January 2012",,,cs.CL,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  At the present time, computers are employed to solve complex tasks and
+problems ranging from simple calculations to intensive digital image processing
+and intricate algorithmic optimization problems to computationally-demanding
+weather forecasting problems. ASR short for Automatic Speech Recognition is yet
+another type of computational problem whose purpose is to recognize human
+spoken speech and convert it into text that can be processed by a computer.
+Despite that ASR has many versatile and pervasive real-world applications,it is
+still relatively erroneous and not perfectly solved as it is prone to produce
+spelling errors in the recognized text, especially if the ASR system is
+operating in a noisy environment, its vocabulary size is limited, and its input
+speech is of bad or low quality. This paper proposes a post-editing ASR error
+correction method based on MicrosoftN-Gram dataset for detecting and correcting
+spelling errors generated by ASR systems. The proposed method comprises an
+error detection algorithm for detecting word errors; a candidate corrections
+generation algorithm for generating correction suggestions for the detected
+word errors; and a context-sensitive error correction algorithm for selecting
+the best candidate for correction. The virtue of using the Microsoft N-Gram
+dataset is that it contains real-world data and word sequences extracted from
+the web which canmimica comprehensive dictionary of words having a large and
+all-inclusive vocabulary. Experiments conducted on numerous speeches, performed
+by different speakers, showed a remarkable reduction in ASR errors. Future
+research can improve upon the proposed algorithm so much so that it can be
+parallelized to take advantage of multiprocessor and distributed systems.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 14:51:05 GMT'}]",2012-03-26,"[['Bassil', 'Youssef', ''], ['Semaan', 'Paul', '']]"
+330638,1203.5279,Gregory D. Saxton,"Gregory D. Saxton, Chao Guo, I-Hsuan Chiu, Bo Feng","Social Media and the Social Good: How Nonprofits Use Facebook to
+  Communicate with the Public",Chinese-language article,"China Third Sector Research, Vol. 1, pp. 40-54, 2011",,,cs.CY cs.HC,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this study, we examine the social networking practices of the 100 largest
+nonprofit organizations in the United States. More specifically, we develop a
+comprehensive classification scheme to delineate these organizations' use of
+Facebook as a stakeholder engagement tool. We find that there are 5 primary
+categories of Facebook ""statuses"", which can be aggregated into three key
+dimensions - ""information"", ""community"", and ""action"". Our analysis reveals
+that, though the ""informational"" use of Facebook is still significant,
+nonprofit organizations are better at using Facebook to strategically engage
+their stakeholders via ""dialogic"" and ""community-building"" practices than they
+have been with traditional websites. The adoption of social media seems to have
+engendered new paradigms of public engagement.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 16:09:14 GMT'}]",2012-03-26,"[['Saxton', 'Gregory D.', ''], ['Guo', 'Chao', ''], ['Chiu', 'I-Hsuan', ''], ['Feng', 'Bo', '']]"
+330662,1203.5303,Florian Zuleger,Florian Zuleger and Sumit Gulwani and Moritz Sinn and Helmut Veith,"Bound Analysis of Imperative Programs with the Size-change Abstraction
+  (extended version)",Extended version of SAS 2011 conference article,,,,cs.PL,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  The size-change abstraction (SCA) is an important program abstraction for
+termination analysis, which has been successfully implemented in many tools for
+functional and logic programs. In this paper, we demonstrate that SCA is also a
+highly effective abstract domain for the bound analysis of imperative programs.
+  We have implemented a bound analysis tool based on SCA for imperative
+programs. We abstract programs in a pathwise and context dependent manner,
+which enables our tool to analyze real-world programs effectively. Our work
+shows that SCA captures many of the essential ideas of previous termination and
+bound analysis and goes beyond in a conceptually simpler framework.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 17:22:06 GMT'}]",2015-03-20,"[['Zuleger', 'Florian', ''], ['Gulwani', 'Sumit', ''], ['Sinn', 'Moritz', ''], ['Veith', 'Helmut', '']]"
+330682,1203.5323,Barnaby Martin,Barnaby Martin,Parameterized Proof Complexity and W[1],,,,,cs.LO cs.CC,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We initiate a program of parameterized proof complexity that aims to provide
+evidence that FPT is different from W[1]. A similar program already exists for
+the classes W[2] and W[SAT]. We contrast these programs and prove upper and
+lower bounds for W[1]-parameterized Resolution.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 19:10:20 GMT'}]",2012-03-26,"[['Martin', 'Barnaby', '']]"
+330683,1203.5324,Paula Cristina Vaz,"Paula Cristina Vaz, David Martins de Matos, Bruno Martins, Pavel
+  Calado","Improving an Hybrid Literary Book Recommendation System through Author
+  Ranking",Submitted to JCDL 2012,,,,cs.IR cs.DL,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Literary reading is an important activity for individuals and choosing to
+read a book can be a long time commitment, making book choice an important task
+for book lovers and public library users. In this paper we present an hybrid
+recommendation system to help readers decide which book to read next. We study
+book and author recommendation in an hybrid recommendation setting and test our
+approach in the LitRec data set. Our hybrid book recommendation approach
+purposed combines two item-based collaborative filtering algorithms to predict
+books and authors that the user will like. Author predictions are expanded in
+to a book list that is subsequently aggregated with the former list generated
+through the initial collaborative recommender. Finally, the resulting book list
+is used to yield the top-n book recommendations. By means of various
+experiments, we demonstrate that author recommendation can improve overall book
+recommendation.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 19:28:25 GMT'}]",2012-03-26,"[['Vaz', 'Paula Cristina', ''], ['de Matos', 'David Martins', ''], ['Martins', 'Bruno', ''], ['Calado', 'Pavel', '']]"
+330684,1203.5325,Hongmei Xie,Hongmei Xie and Zhiyuan Yan,"Exact-Repair Minimum Bandwidth Regenerating Codes Based on Evaluation of
+  Linearized Polynomials","This paper has been withdrawn by the author due to incorrect
+  statements",,,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this paper, we propose two new constructions of exact-repair minimum
+storage regenerating (exact-MBR) codes. Both constructions obtain the encoded
+symbols by first treating the message vector over GF(q) as a linearized
+polynomial and then evaluating it over an extension field GF(q^m). The
+evaluation points are chosen so that the encoded symbols at any node are
+conjugates of each other, while corresponding symbols of different nodes are
+linearly dependent with respect to GF(q). These properties ensure that data
+repair can be carried out over the base field GF(q), instead of matrix
+inversion over the extension field required by some existing exact-MBR codes.
+To the best of our knowledge, this approach is novel in the construction of
+exact-MBR codes. One of our constructions leads to exact-MBR codes with
+arbitrary parameters. These exact-MBR codes have higher data reconstruction
+complexities but lower data repair complexities than their counterparts based
+on the product-matrix approach; hence they may be suitable for applications
+that need a small number of data reconstructions but a large number of data
+repairs.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 19:34:32 GMT'}, {'version': 'v2', 'created': 'Mon, 21 Jan 2013 20:20:11 GMT'}]",2013-01-22,"[['Xie', 'Hongmei', ''], ['Yan', 'Zhiyuan', '']]"
+330708,1203.5349,Lucia G.  Menezo,"Lucia G. Menezo, Valentin Puente, Jose-Angel Gregorio",LOCKE Detailed Specification Tables,3 pages,,,,cs.AR,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This document shows the detailed specification of LOCKE coherence protocol
+for each cache controller, using a table-based technique. This representation
+provides clear, concise visual information yet includes sufficient detail
+(e.g., transient states) arguably lacking in the traditional, graphical form of
+state diagrams.
+","[{'version': 'v1', 'created': 'Thu, 22 Mar 2012 10:48:33 GMT'}]",2012-03-27,"[['Menezo', 'Lucia G.', ''], ['Puente', 'Valentin', ''], ['Gregorio', 'Jose-Angel', '']]"
+330709,1203.535,Franti\v{s}ek Polach,Frantisek Polach,Public-Key Cryptography Based on Modular Lattices,,,,,cs.CR,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We present an approach to generalization of practical Identity-Based
+Encryption scheme of Boneh and Franklin. In particular we show how the protocol
+could be used on finite modular lattices and as a special case on vector spaces
+over finite field. The original proof of security for this protocol does not
+hold in this general algebraic structure, thus this is still a work in
+progress.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 20:37:49 GMT'}]",2012-03-27,"[['Polach', 'Frantisek', '']]"
+330710,1203.5351,Bruno Gon\c{c}alves,"Nicola Perra, Bruno Gon\c{c}alves, Romualdo Pastor-Satorras,
+  Alessandro Vespignani",Activity driven modeling of time varying networks,"10 pages, 4 figures","Nature Scientific Reports 2, 469 (2012)",10.1038/srep00469,,physics.soc-ph cond-mat.stat-mech cs.SI,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Network modeling plays a critical role in identifying statistical
+regularities and structural principles common to many systems. The large
+majority of recent modeling approaches are connectivity driven. The structural
+patterns of the network are at the basis of the mechanisms ruling the network
+formation. Connectivity driven models necessarily provide a time-aggregated
+representation that may fail to describe the instantaneous and fluctuating
+dynamics of many networks. We address this challenge by defining the activity
+potential, a time invariant function characterizing the agents' interactions
+and constructing an activity driven model capable of encoding the instantaneous
+time description of the network dynamics. The model provides an explanation of
+structural features such as the presence of hubs, which simply originate from
+the heterogeneous activity of agents. Within this framework, highly dynamical
+networks can be described analytically, allowing a quantitative discussion of
+the biases induced by the time-aggregated representations in the analysis of
+dynamical processes.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 20:44:29 GMT'}, {'version': 'v2', 'created': 'Fri, 8 Jun 2012 18:49:53 GMT'}, {'version': 'v3', 'created': 'Mon, 11 Jun 2012 19:14:08 GMT'}, {'version': 'v4', 'created': 'Tue, 26 Jun 2012 14:58:33 GMT'}]",2012-06-27,"[['Perra', 'Nicola', ''], ['Gonçalves', 'Bruno', ''], ['Pastor-Satorras', 'Romualdo', ''], ['Vespignani', 'Alessandro', '']]"
+330712,1203.5353,Jeffrey Shallit,"Galina Jiraskova, Jeffrey Shallit",The state complexity of star-complement-star,,,,,cs.FL,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We resolve an open question by determining matching (asymptotic) upper and
+lower bounds on the state complexity of the operation that sends a language L
+to (c(L*))*, where c() denotes complement.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 20:50:45 GMT'}]",2012-03-27,"[['Jiraskova', 'Galina', ''], ['Shallit', 'Jeffrey', '']]"
+330721,1203.5362,Mehmet Karaca,"Mehmet Karaca, Yunus Sarikaya, Ozgur Ercetin, Tansu Alpcan, Holger
+  Boche",Throughput Optimal Scheduling with Dynamic Channel Feedback,submitted,"Wireless Communications, IEEE Transactions on vol.12, No:6, 2013",10.1109/TWC.2013.041713.121460,,cs.NI cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  It is well known that opportunistic scheduling algorithms are throughput
+optimal under full knowledge of channel and network conditions. However, these
+algorithms achieve a hypothetical achievable rate region which does not take
+into account the overhead associated with channel probing and feedback required
+to obtain the full channel state information at every slot. We adopt a channel
+probing model where $\beta$ fraction of time slot is consumed for acquiring the
+channel state information (CSI) of a single channel. In this work, we design a
+joint scheduling and channel probing algorithm named SDF by considering the
+overhead of obtaining the channel state information. We first analytically
+prove SDF algorithm can support $1+\epsilon$ fraction of of the full rate
+region achieved when all users are probed where $\epsilon$ depends on the
+expected number of users which are not probed. Then, for homogenous channel, we
+show that when the number of users in the network is greater than 3, $\epsilon
+> 0$, i.e., we guarantee to expand the rate region. In addition, for
+heterogenous channels, we prove the conditions under which SDF guarantees to
+increase the rate region. We also demonstrate numerically in a realistic
+simulation setting that this rate region can be achieved by probing only less
+than 50% of all channels in a CDMA based cellular network utilizing high data
+rate protocol under normal channel conditions.
+","[{'version': 'v1', 'created': 'Fri, 23 Mar 2012 21:48:10 GMT'}, {'version': 'v2', 'created': 'Tue, 27 Mar 2012 00:22:40 GMT'}]",2013-07-05,"[['Karaca', 'Mehmet', ''], ['Sarikaya', 'Yunus', ''], ['Ercetin', 'Ozgur', ''], ['Alpcan', 'Tansu', ''], ['Boche', 'Holger', '']]"
+330737,1203.5378,Mohammad Noshad,Mohammad Noshad and Maite Brandt-Pearce,Expurgated PPM Using Symmetric Balanced Incomplete Block Designs,,,,,cs.IT math.IT physics.optics,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this letter, we propose a new pulse position modulation (PPM) scheme,
+called expurgated PPM (EPPM), for application in peak power limited
+communication systems, such as impulse radio (IR) ultra wide band (UWB) systems
+and free space optical (FSO) communications. Using the proposed scheme, the
+constellation size and the bit-rate can be increased significantly in these
+systems. The symbols are obtained using symmetric balanced incomplete block
+designs (BIBD), forming a set of pair-wise equidistance symbols. The
+performance of Q-ary EPPM is better than any Q-ary pulse position-based
+modulation scheme with the same symbol length. Since the code is cyclic, the
+receiver for EPPM is simpler compared to multipulse PPM (MPPM).
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 02:19:14 GMT'}]",2012-03-27,"[['Noshad', 'Mohammad', ''], ['Brandt-Pearce', 'Maite', '']]"
+330746,1203.5387,Vibhor  Rastogi,"Vibhor Rastogi, Ashwin Machanavajjhala, Laukik Chitnis, Anish Das
+  Sarma",Finding Connected Components on Map-reduce in Logarithmic Rounds,,,,,cs.DS cs.DB,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Given a large graph G = (V,E) with millions of nodes and edges, how do we
+compute its connected components efficiently? Recent work addresses this
+problem in map-reduce, where a fundamental trade-off exists between the number
+of map-reduce rounds and the communication of each round. Denoting d the
+diameter of the graph, and n the number of nodes in the largest component, all
+prior map-reduce techniques either require d rounds, or require about n|V| +
+|E| communication per round. We propose two randomized map-reduce algorithms --
+(i) Hash-Greater-To-Min, which provably requires at most 3log(n) rounds with
+high probability, and at most 2(|V| + |E|) communication per round, and (ii)
+Hash-to-Min, which has a worse theoretical complexity, but in practice
+completes in at most 2log(d) rounds and 3(|V| + |E|) communication per rounds.
+  Our techniques for connected components can be applied to clustering as well.
+We propose a novel algorithm for agglomerative single linkage clustering in
+map-reduce. This is the first algorithm that can provably compute a clustering
+in at most O(log(n)) rounds, where n is the size of the largest cluster. We
+show the effectiveness of all our algorithms through detailed experiments on
+large synthetic as well as real-world datasets.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 05:16:27 GMT'}, {'version': 'v2', 'created': 'Tue, 13 Nov 2012 01:50:51 GMT'}]",2012-11-14,"[['Rastogi', 'Vibhor', ''], ['Machanavajjhala', 'Ashwin', ''], ['Chitnis', 'Laukik', ''], ['Sarma', 'Anish Das', '']]"
+330754,1203.5395,Mohammad Firooz,"Mohammad Hamed Firooz, Sumit Roy",Data Dissemination in Wireless Networks with Network Coding,,"IEEE Communications Letters, Volume:17 , Issue: 5, 2013",10.1109/LCOMM.2013.031313.121994,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We investigate the use of network coding for information dissemination over a
+wireless network. Using network coding allows for a simple, distributed and
+robust algorithm where nodes do not need any information from their neighbors.
+In this paper, we analyze the time needed to diffuse information throughout a
+network when network coding is implemented at all nodes. We then provide an
+upper bound for the dissemination time for ad-hoc networks with general
+topology. Moreover, we derive a relation between dissemination time and the
+size of the wireless network. It is shown that for a wireless network with N
+nodes, the dissemination latency is between O(N) and O(N^2), depending on the
+reception probabilities of the nodes. These observations are validated by the
+simulation results.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 07:53:13 GMT'}, {'version': 'v2', 'created': 'Sun, 9 Sep 2012 21:11:46 GMT'}, {'version': 'v3', 'created': 'Sun, 8 Dec 2013 07:56:52 GMT'}]",2016-11-18,"[['Firooz', 'Mohammad Hamed', ''], ['Roy', 'Sumit', '']]"
+330758,1203.5399,Ido Ben-Zvi,Ido Ben-Zvi and Yoram Moses,Agent-time Epistemics and Coordination,"30 pages, 5 figures",,,,cs.MA cs.DC cs.LO,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  A minor change to the standard epistemic logical language, replacing $K_{i}$
+with $K_{\node{i,t}}$ where $t$ is a time instance, gives rise to a generalized
+and more expressive form of knowledge and common knowledge operators. We
+investigate the communication structures that are necessary for such
+generalized epistemic states to arise, and the inter-agent coordination tasks
+that require such knowledge. Previous work has established a relation between
+linear event ordering and nested knowledge, and between simultaneous event
+occurrences and common knowledge. In the new, extended, formalism, epistemic
+necessity is decoupled from temporal necessity. Nested knowledge and event
+ordering are shown to be related even when the nesting order does not match the
+temporal order of occurrence. The generalized form of common knowledge does
+{\em not} correspond to simultaneity. Rather, it corresponds to a notion of
+tight coordination, of which simultaneity is an instance.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 10:12:05 GMT'}]",2012-03-27,"[['Ben-Zvi', 'Ido', ''], ['Moses', 'Yoram', '']]"
+330762,1203.5403,Youssef Bassil,Youssef Bassil,"Distributed, Cross-Platform, and Regression Testing Architecture for
+  Service-Oriented Architecture","ISSN: 2166-2924; LACSC - Lebanese Association for Computational
+  Sciences - http://www.lacsc.org; Advances in Computer Science and its
+  Applications (ACSA), Vol. 1, No. 1, March 2012",,,,cs.SE,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  As per leading IT experts, today's large enterprises are going through
+business transformations. They are adopting service-based IT models such as SOA
+to develop their enterprise information systems and applications. In fact, SOA
+is an integration of loosely-coupled interoperable components, possibly built
+using heterogeneous software technologies and hardware platforms. As a result,
+traditional testing architectures are no more adequate for verifying and
+validating the quality of SOA systems and whether they are operating to
+specifications. This paper first discusses the various state-of-the-art methods
+for testing SOA applications, and then it proposes a novel automated,
+distributed, cross-platform, and regression testing architecture for SOA
+systems. The proposed testing architecture consists of several testing units
+which include test engine, test code generator, test case generator, test
+executer, and test monitor units. Experiments conducted showed that the
+proposed testing architecture managed to use parallel agents to test
+heterogeneous web services whose technologies were incompatible with the
+testing framework. As future work, testing non-functional aspects of SOA
+applications are to be investigated so as to allow the testing of such
+properties as performance, security, availability, and scalability.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 10:49:06 GMT'}]",2012-03-27,"[['Bassil', 'Youssef', '']]"
+330773,1203.5414,Stasys Jukna,S. Jukna,"Clique problem, cutting plane proofs and communication complexity","10 pages. Theorem 1 in the previous version holds only for bipartite
+  graphs, the non-bipartite case remains open. I now separate the bipartite and
+  non-bipartite cases (by switching from independent sets to cliques, hence a
+  new title). Some new open problems as well as references are added",Information Processing Letters 112(20) (2012) 772-777,10.1016/j.ipl.2012.07.003,,cs.CC cs.DM,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Motivated by its relation to the length of cutting plane proofs for the
+Maximum Biclique problem, we consider the following communication game on a
+given graph G, known to both players. Let K be the maximal number of vertices
+in a complete bipartite subgraph of G, which is not necessarily an induced
+subgraph if G is not bipartite. Alice gets a set A of vertices, and Bob gets a
+disjoint set B of vertices such that |A|+|B|>K. The goal is to find a nonedge
+of G between A and B. We show that O(\log n) bits of communication are enough
+for every n-vertex graph.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 13:51:15 GMT'}, {'version': 'v2', 'created': 'Sun, 15 Apr 2012 15:20:40 GMT'}]",2018-05-30,"[['Jukna', 'S.', '']]"
+330774,1203.5415,Xiaofeng Liao,"Yongji Wang, Xiaofeng Liao, Hu Wu, Jingzheng Wu",Incremental Collaborative Filtering Considering Temporal Effects,"18 pages, 3 figures, 3 tables",,,,cs.IR,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Recommender systems require their recommendation algorithms to be accurate,
+scalable and should handle very sparse training data which keep changing over
+time. Inspired by ant colony optimization, we propose a novel collaborative
+filtering scheme: Ant Collaborative Filtering that enjoys those favorable
+characteristics above mentioned. With the mechanism of pheromone transmission
+between users and items, our method can pinpoint most relative users and items
+even in face of the sparsity problem. By virtue of the evaporation of existing
+pheromone, we capture the evolution of user preference over time. Meanwhile,
+the computation complexity is comparatively small and the incremental update
+can be done online. We design three experiments on three typical recommender
+systems, namely movie recommendation, book recommendation and music
+recommendation, which cover both explicit and implicit rating data. The results
+show that the proposed algorithm is well suited for real-world recommendation
+scenarios which have a high throughput and are time sensitive.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 14:14:00 GMT'}]",2012-03-27,"[['Wang', 'Yongji', ''], ['Liao', 'Xiaofeng', ''], ['Wu', 'Hu', ''], ['Wu', 'Jingzheng', '']]"
+330781,1203.5422,Jing Lei,Jing Lei and Larry Wasserman,Distribution Free Prediction Bands,"28 pages, 4 figures",,,,stat.ME cs.LG math.ST stat.TH,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We study distribution free, nonparametric prediction bands with a special
+focus on their finite sample behavior. First we investigate and develop
+different notions of finite sample coverage guarantees. Then we give a new
+prediction band estimator by combining the idea of ""conformal prediction"" (Vovk
+et al. 2009) with nonparametric conditional density estimation. The proposed
+estimator, called COPS (Conformal Optimized Prediction Set), always has finite
+sample guarantee in a stronger sense than the original conformal prediction
+estimator. Under regularity conditions the estimator converges to an oracle
+band at a minimax optimal rate. A fast approximation algorithm and a data
+driven method for selecting the bandwidth are developed. The method is
+illustrated first in simulated data. Then, an application shows that the
+proposed method gives desirable prediction intervals in an automatic way, as
+compared to the classical linear regression modeling.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 15:04:02 GMT'}]",2012-03-27,"[['Lei', 'Jing', ''], ['Wasserman', 'Larry', '']]"
+330782,1203.5423,EPTCS,"Simona Ronchi della Rocca (UNITO), Elaine Pimentel (UFMG)","Proceedings 6th Workshop on Logical and Semantic Frameworks with
+  Applications",,"EPTCS 81, 2012",10.4204/EPTCS.81,,cs.LO cs.CC cs.PL,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This volume contains the proceedings of the Sixth Workshop on Logical and
+Semantic Frameworks with Applications (LSFA 2011). The workshop will be hold in
+Belo Horizonte, on August 27th 2011.
+  Logical and semantic frameworks are formal languages used to represent
+logics, languages and systems. These frameworks provide foundations for formal
+specification of systems and programming languages, supporting tool development
+and reasoning.
+  The objective of this one-day workshop is to put together theoreticians and
+practitioners to promote new techniques and results, from the theoretical side,
+and feedback on the implementation and the use of such techniques and results,
+from the practical side.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 15:27:21 GMT'}]",2012-03-27,"[['della Rocca', 'Simona Ronchi', '', 'UNITO'], ['Pimentel', 'Elaine', '', 'UFMG']]"
+330797,1203.5438,Emile Richard,"Emile Richard, Andreas Argyriou, Theodoros Evgeniou and Nicolas
+  Vayatis","A Regularization Approach for Prediction of Edges and Node Features in
+  Dynamic Graphs",,,,,cs.LG stat.ML,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We consider the two problems of predicting links in a dynamic graph sequence
+and predicting functions defined at each node of the graph. In many
+applications, the solution of one problem is useful for solving the other.
+Indeed, if these functions reflect node features, then they are related through
+the graph structure. In this paper, we formulate a hybrid approach that
+simultaneously learns the structure of the graph and predicts the values of the
+node-related functions. Our approach is based on the optimization of a joint
+regularization objective. We empirically test the benefits of the proposed
+method with both synthetic and real data. The results indicate that joint
+regularization improves prediction performance over the graph evolution and the
+node features.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 18:59:55 GMT'}]",2012-03-27,"[['Richard', 'Emile', ''], ['Argyriou', 'Andreas', ''], ['Evgeniou', 'Theodoros', ''], ['Vayatis', 'Nicolas', '']]"
+330802,1203.5443,Martin Pelikan,"Martin Pelikan, Mark W. Hauschild, and Pier Luca Lanzi","Transfer Learning, Soft Distance-Based Bias, and the Hierarchical BOA","Accepted at Parallel Problem Solving from Nature (PPSN XII), 10
+  pages. arXiv admin note: substantial text overlap with arXiv:1201.2241",,,MEDAL Report No. 2012004,cs.NE cs.AI cs.LG,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  An automated technique has recently been proposed to transfer learning in the
+hierarchical Bayesian optimization algorithm (hBOA) based on distance-based
+statistics. The technique enables practitioners to improve hBOA efficiency by
+collecting statistics from probabilistic models obtained in previous hBOA runs
+and using the obtained statistics to bias future hBOA runs on similar problems.
+The purpose of this paper is threefold: (1) test the technique on several
+classes of NP-complete problems, including MAXSAT, spin glasses and minimum
+vertex cover; (2) demonstrate that the technique is effective even when
+previous runs were done on problems of different size; (3) provide empirical
+evidence that combining transfer learning with other efficiency enhancement
+techniques can often yield nearly multiplicative speedups.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 20:11:21 GMT'}, {'version': 'v2', 'created': 'Thu, 21 Jun 2012 12:47:30 GMT'}]",2012-06-22,"[['Pelikan', 'Martin', ''], ['Hauschild', 'Mark W.', ''], ['Lanzi', 'Pier Luca', '']]"
+330805,1203.5446,Cyril Voyant,"Philippe Lauret (PIMENT), Auline Rodler (SPE), Marc Muselli (SPE),
+  Mathieu David (PIMENT), Hadja Diagne (PIMENT), Cyril Voyant (SPE, CHD
+  Castellucio)","A Bayesian Model Committee Approach to Forecasting Global Solar
+  Radiation","WREF 2012 : World Renewable Energy Forum, Denver : United States
+  (2012)",,,,stat.AP cs.LG,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This paper proposes to use a rather new modelling approach in the realm of
+solar radiation forecasting. In this work, two forecasting models:
+Autoregressive Moving Average (ARMA) and Neural Network (NN) models are
+combined to form a model committee. The Bayesian inference is used to affect a
+probability to each model in the committee. Hence, each model's predictions are
+weighted by their respective probability. The models are fitted to one year of
+hourly Global Horizontal Irradiance (GHI) measurements. Another year (the test
+set) is used for making genuine one hour ahead (h+1) out-of-sample forecast
+comparisons. The proposed approach is benchmarked against the persistence
+model. The very first results show an improvement brought by this approach.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 20:58:48 GMT'}]",2012-03-27,"[['Lauret', 'Philippe', '', 'PIMENT'], ['Rodler', 'Auline', '', 'SPE'], ['Muselli', 'Marc', '', 'SPE'], ['David', 'Mathieu', '', 'PIMENT'], ['Diagne', 'Hadja', '', 'PIMENT'], ['Voyant', 'Cyril', '', 'SPE, CHD\n  Castellucio']]"
+330810,1203.5451,Imtiez Fliss,Imtiez Fliss and Moncef Tagina,Multiple faults diagnosis using causal graph,,"In the proceedings of The 6th IEEE International Multi- Conference
+  On Systems, Signals Devices- SSD'09, Djerba, Tunisia, 23-26 Mars 2009",,,cs.SY,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This work proposes to put up a tool for diagnosing multi faults based on
+model using techniques of detection and localization inspired from the
+community of artificial intelligence and that of automatic. The diagnostic
+procedure to be integrated into the supervisory system must therefore be
+provided with explanatory features. Techniques based on causal reasoning are a
+pertinent approach for this purpose. Bond graph modeling is used to describe
+the cause effect relationship between process variables. Experimental results
+are presented and discussed in order to compare performance of causal graph
+technique and classic methods inspired from artificial intelligence (DX) and
+control theory (FDI).
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 22:16:45 GMT'}]",2012-03-27,"[['Fliss', 'Imtiez', ''], ['Tagina', 'Moncef', '']]"
+330811,1203.5452,Nesrine Yahia Ben,"Nesrine Ben Yahia, Narj\`es Bellamine and Henda Ben Ghezala",Modeling of Mixed Decision Making Process,"Keywords-collaborative knowledge management; mixed decision making;
+  dynamicity of actors; UML-G","In Proceedings of IEEE International Conference on Information
+  Technology and e-Services 2012, pp. 555-559 ISBN: 978-9938-9511-1-0",,,cs.AI,http://creativecommons.org/licenses/by/3.0/,"  Decision making whenever and wherever it is happened is key to organizations
+success. In order to make correct decision, individuals, teams and
+organizations need both knowledge management (to manage content) and
+collaboration (to manage group processes) to make that more effective and
+efficient. In this paper, we explain the knowledge management and collaboration
+convergence. Then, we propose a formal description of mixed and multimodal
+decision making (MDM) process where decision may be made by three possible
+modes: individual, collective or hybrid. Finally, we explicit the MDM process
+based on UML-G profile.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 22:18:36 GMT'}]",2012-03-27,"[['Yahia', 'Nesrine Ben', ''], ['Bellamine', 'Narjès', ''], ['Ghezala', 'Henda Ben', '']]"
+330812,1203.5453,Aleksandar Nikolov,"S. Muthukrishnan, Aleksandar Nikolov",Optimal Private Halfspace Counting via Discrepancy,,,,,cs.DS cs.CG,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  A range counting problem is specified by a set $P$ of size $|P| = n$ of
+points in $\mathbb{R}^d$, an integer weight $x_p$ associated to each point $p
+\in P$, and a range space ${\cal R} \subseteq 2^{P}$. Given a query range $R
+\in {\cal R}$, the target output is $R(\vec{x}) = \sum_{p \in R}{x_p}$. Range
+counting for different range spaces is a central problem in Computational
+Geometry.
+  We study $(\epsilon, \delta)$-differentially private algorithms for range
+counting. Our main results are for the range space given by hyperplanes, that
+is, the halfspace counting problem. We present an $(\epsilon,
+\delta)$-differentially private algorithm for halfspace counting in $d$
+dimensions which achieves $O(n^{1-1/d})$ average squared error. This contrasts
+with the $\Omega(n)$ lower bound established by the classical result of Dinur
+and Nissim [PODS 2003] for arbitrary subset counting queries. We also show a
+matching lower bound on average squared error for any $(\epsilon,
+\delta)$-differentially private algorithm for halfspace counting. Both bounds
+are obtained using discrepancy theory. For the lower bound, we use a modified
+discrepancy measure and bound approximation of $(\epsilon,
+\delta)$-differentially private algorithms for range counting queries in terms
+of this discrepancy. We also relate the modified discrepancy measure to
+classical combinatorial discrepancy, which allows us to exploit known
+discrepancy lower bounds. This approach also yields a lower bound of
+$\Omega((\log n)^{d-1})$ for $(\epsilon, \delta)$-differentially private
+orthogonal range counting in $d$ dimensions, the first known superconstant
+lower bound for this problem. For the upper bound, we use an approach inspired
+by partial coloring methods for proving discrepancy upper bounds, and obtain
+$(\epsilon, \delta)$-differentially private algorithms for range counting with
+polynomially bounded shatter function range spaces.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 22:25:12 GMT'}]",2012-03-27,"[['Muthukrishnan', 'S.', ''], ['Nikolov', 'Aleksandar', '']]"
+330813,1203.5454,Imtiez Fliss,Imtiez fliss and Moncef Tagina,"A Novel Fault Detection Approach combining Adaptive Thresholding and
+  Fuzzy Reasoning",,"In the proceedings of The 3rd IEEE International Conference
+  Electrical Engineering Design and Technologies (ICEEDT'09), Sousse, Tunisia,
+  31 Octobre-02 Novembre 2009",,,cs.SY,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Fault detection methods have their pros and cons. Thus, it is possible that
+some methods can complement each other and offer consequently better diagnostic
+systems. The integration of various characteristics is a way to develop
+""hybrid"" systems to overcome the limitations of individual strategies of each
+method. In this paper a novel detection module combining the use of adaptive
+threshold and fuzzy logic reasoning inspired by the Evsukoff's approach is
+proposed in order to reduce the rate of false alarms, guarantee more robustness
+to disturbances and assist the operator in making decisions. The proposed
+approach can be used in case of multiple faults detection. This approach is
+applied to a benchmark in diagnosis domain: the three-tank system. The results
+of the proposed detection module are then presented through a gradual palette
+of colors in the graphical interface of the system.
+","[{'version': 'v1', 'created': 'Sat, 24 Mar 2012 22:28:17 GMT'}]",2012-03-27,"[['fliss', 'Imtiez', ''], ['Tagina', 'Moncef', '']]"
+330823,1203.5464,Ton Kloks,Ton Kloks,A note on triangle partitions,,,,,cs.DS cs.DM,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Koivisto studied the partitioning of sets of bounded cardinality. We improve
+his time analysis somewhat, for the special case of triangle partitions, and
+obtain a slight improvement.
+","[{'version': 'v1', 'created': 'Sun, 25 Mar 2012 02:16:00 GMT'}]",2012-03-27,"[['Kloks', 'Ton', '']]"
+330826,1203.5467,Chengqing Li,"Chengqing Li, Yu Zhang, Rong Ou, Kwok-Wo Wong",Breaking a novel colour image encryption algorithm based on chaos,"5 pages, 1 figure",,,,cs.CR,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Recently, a colour image encryption algorithm based on chaos was proposed by
+cascading two position permutation operations and one substitution operation,
+which are all determined by some pseudo-random number sequences generated by
+iterating the Logistic map. This paper evaluates the security level of the
+encryption algorithm and finds that the position permutation-only part and the
+substitution part can be separately broken with only $\lceil (\log_2(3MN))/8
+\rceil$ and 2 chosen plain-images, respectively, where $MN$ is the size of the
+plain-image. Concise theoretical analyses are provided to support the
+chosen-plaintext attack, which are verified by experimental results also.
+","[{'version': 'v1', 'created': 'Sun, 25 Mar 2012 02:58:26 GMT'}]",2012-03-27,"[['Li', 'Chengqing', ''], ['Zhang', 'Yu', ''], ['Ou', 'Rong', ''], ['Wong', 'Kwok-Wo', '']]"
+330833,1203.5474,Yanhua Li,"Yanhua Li, Zhi-Li Zhang, Jie Bao","Mutual or Unrequited Love: Identifying Stable Clusters in Social
+  Networks with Uni- and Bi-directional Links","10pages. A short version appears in 9th Workshop on Algorithms and
+  Models for the Web Graph (WAW 2012)",,,,cs.SI physics.soc-ph,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  Many social networks, e.g., Slashdot and Twitter, can be represented as
+directed graphs (digraphs) with two types of links between entities: mutual
+(bi-directional) and one-way (uni-directional) connections. Social science
+theories reveal that mutual connections are more stable than one-way
+connections, and one-way connections exhibit various tendencies to become
+mutual connections. It is therefore important to take such tendencies into
+account when performing clustering of social networks with both mutual and
+one-way connections.
+  In this paper, we utilize the dyadic methods to analyze social networks, and
+develop a generalized mutuality tendency theory to capture the tendencies of
+those node pairs which tend to establish mutual connections more frequently
+than those occur by chance. Using these results, we develop a
+mutuality-tendency-aware spectral clustering algorithm to identify more stable
+clusters by maximizing the within-cluster mutuality tendency and minimizing the
+cross-cluster mutuality tendency. Extensive simulation results on synthetic
+datasets as well as real online social network datasets such as Slashdot,
+demonstrate that our proposed mutuality-tendency-aware spectral clustering
+algorithm extracts more stable social community structures than traditional
+spectral clustering methods.
+","[{'version': 'v1', 'created': 'Sun, 25 Mar 2012 07:22:14 GMT'}]",2012-03-27,"[['Li', 'Yanhua', ''], ['Zhang', 'Zhi-Li', ''], ['Bao', 'Jie', '']]"
+330844,1203.5485,Sameer Agarwal,"Sameer Agarwal, Aurojit Panda, Barzan Mozafari, Samuel Madden, Ion
+  Stoica","BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very
+  Large Data",,,,,cs.DB cs.DC,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this paper, we present BlinkDB, a massively parallel, sampling-based
+approximate query engine for running ad-hoc, interactive SQL queries on large
+volumes of data. The key insight that BlinkDB builds on is that one can often
+make reasonable decisions in the absence of perfect answers. For example,
+reliably detecting a malfunctioning server using a distributed collection of
+system logs does not require analyzing every request processed by the system.
+Based on this insight, BlinkDB allows one to trade-off query accuracy for
+response time, enabling interactive queries over massive data by running
+queries on data samples and presenting results annotated with meaningful error
+bars. To achieve this, BlinkDB uses two key ideas that differentiate it from
+previous work in this area: (1) an adaptive optimization framework that builds
+and maintains a set of multi-dimensional, multi-resolution samples from
+original data over time, and (2) a dynamic sample selection strategy that
+selects an appropriately sized sample based on a query's accuracy and/or
+response time requirements. We have built an open-source version of BlinkDB and
+validated its effectiveness using the well-known TPC-H benchmark as well as a
+real-world analytic workload derived from Conviva Inc. Our experiments on a 100
+node cluster show that BlinkDB can answer a wide range of queries from a
+real-world query trace on up to 17 TBs of data in less than 2 seconds (over
+100\times faster than Hive), within an error of 2 - 10%.
+","[{'version': 'v1', 'created': 'Sun, 25 Mar 2012 11:11:21 GMT'}, {'version': 'v2', 'created': 'Tue, 19 Jun 2012 19:01:31 GMT'}]",2012-06-20,"[['Agarwal', 'Sameer', ''], ['Panda', 'Aurojit', ''], ['Mozafari', 'Barzan', ''], ['Madden', 'Samuel', ''], ['Stoica', 'Ion', '']]"
+330861,1203.5502,Marco Guerini,"Marco Guerini, Carlo Strapparava and Gozde Ozbal",Exploring Text Virality in Social Networks,,"Proceedings of the Fifth International AAAI Conference on Weblogs
+  and Social Media (ICWSM 2011), 17-21 July 2011, Barcelona, Spain",,,cs.CL cs.SI physics.soc-ph,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This paper aims to shed some light on the concept of virality - especially in
+social networks - and to provide new insights on its structure. We argue that:
+(a) virality is a phenomenon strictly connected to the nature of the content
+being spread, rather than to the influencers who spread it, (b) virality is a
+phenomenon with many facets, i.e. under this generic term several different
+effects of persuasive communication are comprised and they only partially
+overlap. To give ground to our claims, we provide initial experiments in a
+machine learning framework to show how various aspects of virality can be
+independently predicted according to content features.
+","[{'version': 'v1', 'created': 'Sun, 25 Mar 2012 14:56:04 GMT'}]",2015-03-20,"[['Guerini', 'Marco', ''], ['Strapparava', 'Carlo', ''], ['Ozbal', 'Gozde', '']]"
+330882,1203.5523,Antonios Argyriou,Antonios Argyriou,Wireless Video Transmission with Over-the-Air Packet Mixing,2012 Packet Video Workshop,,,,cs.NI,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this paper, we propose a system for wireless video transmission with a
+wireless physical layer (PHY) that supports cooperative forwarding of
+interfered/superimposed packets. Our system model considers multiple and
+independent unicast transmissions between network nodes while a number of them
+serve as relays of the interfered/superimposed signals. For this new PHY the
+average transmission rate that each node can achieve is estimated first. Next,
+we formulate a utility optimization framework for the video transmission
+problem and we show that it can be simplified due to the features of the new
+PHY. Simulation results reveal the system operating regions for which
+superimposing wireless packets is a better choice than a typical cooperative
+PHY.
+","[{'version': 'v1', 'created': 'Sun, 25 Mar 2012 17:44:54 GMT'}]",2012-03-27,"[['Argyriou', 'Antonios', '']]"
+330891,1203.5532,Bruno Scherrer,Bruno Scherrer (INRIA Lorraine - LORIA),"On the Use of Non-Stationary Policies for Infinite-Horizon Discounted
+  Markov Decision Processes",,,,,cs.AI,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  We consider infinite-horizon $\gamma$-discounted Markov Decision Processes,
+for which it is known that there exists a stationary optimal policy. We
+consider the algorithm Value Iteration and the sequence of policies
+$\pi_1,...,\pi_k$ it implicitely generates until some iteration $k$. We provide
+performance bounds for non-stationary policies involving the last $m$ generated
+policies that reduce the state-of-the-art bound for the last stationary policy
+$\pi_k$ by a factor $\frac{1-\gamma}{1-\gamma^m}$. In particular, the use of
+non-stationary policies allows to reduce the usual asymptotic performance
+bounds of Value Iteration with errors bounded by $\epsilon$ at each iteration
+from $\frac{\gamma}{(1-\gamma)^2}\epsilon$ to
+$\frac{\gamma}{1-\gamma}\epsilon$, which is significant in the usual situation
+when $\gamma$ is close to 1. Given Bellman operators that can only be computed
+with some error $\epsilon$, a surprising consequence of this result is that the
+problem of ""computing an approximately optimal non-stationary policy"" is much
+simpler than that of ""computing an approximately optimal stationary policy"",
+and even slightly simpler than that of ""approximately computing the value of
+some fixed policy"", since this last problem only has a guarantee of
+$\frac{1}{1-\gamma}\epsilon$.
+","[{'version': 'v1', 'created': 'Sun, 25 Mar 2012 19:44:41 GMT'}, {'version': 'v2', 'created': 'Fri, 30 Mar 2012 18:18:05 GMT'}]",2012-04-02,"[['Scherrer', 'Bruno', '', 'INRIA Lorraine - LORIA']]"
+330929,1203.557,Vitri Tundjungsari,"Vitri Tundjungsari, Jazi Eko Istiyanto, Edi Winarko, Retantyo Wardoyo",Achieving Consensus with Individual Centrality Approach,"12 pages, 4 tables, 1 figure, Tundjungsari, V., Istiyanto, J.E.,
+  Winarko, E., Wardoyo, R., 2012, Achieving Consensus with Individual
+  Centrality Approach, International Journal of Computer Science and
+  Information Technology, Vol. 4, No. 1, February 2012",,,,cs.SI physics.soc-ph,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This paper proposes a new consensus model in participatory decision making.
+The model employs advice centrality approach by electing a leader and
+recommender named as Supra Decision Maker (SDM). A SDM has a role as a decision
+bench-marker to other decision makers in evaluating each alternative with
+respect to given criteria. The weighting value for each alternative can be
+obtained by considering consensus level and preferences' distances between SDM
+and other Decision Makers. A social function using Social Judgment Scheme (SJS)
+concept is employed when a decision does not achieve the required consensus
+level. A simple example is presented here to illustrate our model.
+  Keywords: Consensus, Group decision making, Centrality, Supra Decision Maker,
+Social Judgment Scheme
+","[{'version': 'v1', 'created': 'Mon, 26 Mar 2012 03:19:34 GMT'}]",2012-03-27,"[['Tundjungsari', 'Vitri', ''], ['Istiyanto', 'Jazi Eko', ''], ['Winarko', 'Edi', ''], ['Wardoyo', 'Retantyo', '']]"
+330931,1203.5572,Pierre-Olivier Amblard,Pierre-Olivier Amblard and Olivier J. J. Michel,Causal conditioning and instantaneous coupling in causality graphs,submitted,,,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  The paper investigates the link between Granger causality graphs recently
+formalized by Eichler and directed information theory developed by Massey and
+Kramer. We particularly insist on the implication of two notions of causality
+that may occur in physical systems. It is well accepted that dynamical
+causality is assessed by the conditional transfer entropy, a measure appearing
+naturally as a part of directed information. Surprisingly the notion of
+instantaneous causality is often overlooked, even if it was clearly understood
+in early works. In the bivariate case, instantaneous coupling is measured
+adequately by the instantaneous information exchange, a measure that
+supplements the transfer entropy in the decomposition of directed information.
+In this paper, the focus is put on the multivariate case and conditional graph
+modeling issues. In this framework, we show that the decomposition of directed
+information into the sum of transfer entropy and information exchange does not
+hold anymore. Nevertheless, the discussion allows to put forward the two
+measures as pillars for the inference of causality graphs. We illustrate this
+on two synthetic examples which allow us to discuss not only the theoretical
+concepts, but also the practical estimation issues.
+","[{'version': 'v1', 'created': 'Mon, 26 Mar 2012 03:28:45 GMT'}]",2012-03-27,"[['Amblard', 'Pierre-Olivier', ''], ['Michel', 'Olivier J. J.', '']]"
+330942,1203.5583,Xiaomeng Liu,"Xiaomeng Liu, Hai Lin and Ben M. Chen","Graph-Theoretic Characterizations of Structural Controllability for
+  Multi-Agent System with Switching Topology",,,,,cs.MA cs.SY,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  This paper considers the controllability problem for multi-agent systems. In
+particular, the structural controllability of multi-agent systems under
+switching topologies is investigated. The structural controllability of
+multi-agent systems is a generalization of the traditional controllability
+concept for dynamical systems, and purely based on the communication topologies
+among agents. The main contributions of the paper are graph-theoretic
+characterizations of the structural controllability for multi-agent systems. It
+turns out that the multi-agent system with switching topology is structurally
+controllable if and only if the union graph G of the underlying communication
+topologies is connected (single leader) or leader-follower connected
+(multi-leader). Finally, the paper concludes with several illustrative examples
+and discussions of the results and future work.
+","[{'version': 'v1', 'created': 'Mon, 26 Mar 2012 05:40:28 GMT'}]",2012-03-27,"[['Liu', 'Xiaomeng', ''], ['Lin', 'Hai', ''], ['Chen', 'Ben M.', '']]"
+330961,1203.5602,Zhiguo Ding,Peng Xu and Zhiguo Ding and and Xuchu Dai and Kin Leung,"On the Application of Noisy Network Coding to the Relay-Eavesdropper
+  Channel","22 pages, 7 figures",,,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  In this paper, we consider the design of a new secrecy transmission scheme
+for a four-node relay-eavesdropper channel. The key idea of the proposed scheme
+is to combine noisy network coding with the interference assisted strategy for
+wiretap channel with a helping interferer. A new achievable secrecy rate is
+characterized for both discrete memoryless and Gaussian channels. Such a new
+rate can be viewed as a general framework, where the existing interference
+assisted schemes such as noisy-forwarding and cooperative jamming approaches
+can be shown as special cases of the proposed scheme. In addition, under some
+channel condition where the existing schemes can only achieve zero secrecy
+rate, the proposed secrecy scheme can still offer significant performance
+gains.
+","[{'version': 'v1', 'created': 'Mon, 26 Mar 2012 08:57:13 GMT'}]",2012-08-27,"[['Xu', 'Peng', ''], ['Ding', 'Zhiguo', ''], ['Dai', 'and Xuchu', ''], ['Leung', 'Kin', '']]"
+330971,1203.5612,Chung-Chieh Fang,Chung-Chieh Fang,"Closed-Form Critical Conditions of Subharmonic Oscillations for Buck
+  Converters","Submitted to an IEEE Journal on Dec. 23, 2011, and resubmitted to
+  IEEE Transactions on Circuits and Systems-I on Feb. 14, 2012. My current six
+  papers in arXiv have a common reviewer","IEEE Transactions on Circuits and Systems- I, Regular Papers,
+  60(7), pp. 1967-1974, 2013",10.1109/TCSI.2012.2230498,,cs.SY math.DS nlin.CD,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  A general critical condition of subharmonic oscillation in terms of the loop
+gain is derived. Many closed-form critical conditions for various control
+schemes in terms of converter parameters are also derived. Some previously
+known critical conditions become special cases in the generalized framework.
+Given an arbitrary control scheme, a systematic procedure is proposed to derive
+the critical condition for that control scheme. Different control schemes share
+similar forms of critical conditions. For example, both V2 control and voltage
+mode control have the same form of critical condition. A peculiar phenomenon in
+average current mode control where subharmonic oscillation occurs in a window
+value of pole can be explained by the derived critical condition. A ripple
+amplitude index to predict subharmonic oscillation proposed in the past
+research has limited application and is shown invalid for a converter with a
+large pole.
+","[{'version': 'v1', 'created': 'Mon, 26 Mar 2012 09:45:28 GMT'}]",2015-03-20,"[['Fang', 'Chung-Chieh', '']]"
+330997,1203.5638,Ronit Bustin,"Ronit Bustin, Miquel Payaro, Daniel Palomar, Shlomo Shamai (Shitz)","On MMSE Properties and I-MMSE Implications in Parallel MIMO Gaussian
+  Channels",Submitted to the IEEE Transactions on Information Theory,,10.1109/ISIT.2010.5513511,,cs.IT math.IT,http://arxiv.org/licenses/nonexclusive-distrib/1.0/,"  The scalar additive Gaussian noise channel has the ""single crossing point""
+property between the minimum-mean square error (MMSE) in the estimation of the
+input given the channel output, assuming a Gaussian input to the channel, and
+the MMSE assuming an arbitrary input. This paper extends the result to the
+parallel MIMO additive Gaussian channel in three phases: i) The channel matrix
+is the identity matrix, and we limit the Gaussian input to a vector of Gaussian
+i.i.d. elements. The ""single crossing point"" property is with respect to the
+snr (as in the scalar case). ii) The channel matrix is arbitrary, the Gaussian
+input is limited to an independent Gaussian input. A ""single crossing point""
+property is derived for each diagonal element of the MMSE matrix. iii) The
+Gaussian input is allowed to be an arbitrary Gaussian random vector. A ""single
+crossing point"" property is derived for each eigenvalue of the MMSE matrix.
+  These three extensions are then translated to new information theoretic
+properties on the mutual information, using the fundamental relationship
+between estimation theory and information theory. The results of the last phase
+are also translated to a new property of Fisher's information. Finally, the
+applicability of all three extensions on information theoretic problems is
+demonstrated through: a proof of a special case of Shannon's vector EPI, a
+converse proof of the capacity region of the parallel degraded MIMO broadcast
+channel (BC) under per-antenna power constrains and under covariance
+constraints, and a converse proof of the capacity region of the compound
+parallel degraded MIMO BC under covariance constraint.
+","[{'version': 'v1', 'created': 'Mon, 26 Mar 2012 11:52:13 GMT'}]",2016-11-17,"[['Bustin', 'Ronit', '', 'Shitz'], ['Payaro', 'Miquel', '', 'Shitz'], ['Palomar', 'Daniel', '', 'Shitz'], ['Shamai', 'Shlomo', '', 'Shitz']]"
