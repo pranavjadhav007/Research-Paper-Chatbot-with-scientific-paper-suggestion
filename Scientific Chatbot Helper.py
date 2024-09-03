@@ -1,9 +1,10 @@
 import streamlit as st 
+import pickle
 
 if "researchpaper_chatbot" not in st.session_state:
     from bot import Researchpaper_chatbot
     st.session_state.researchpaper_chatbot=Researchpaper_chatbot()
-
+    
 def generate_output(text):
     try:
         outp=st.session_state.researchpaper_chatbot.conversational_rag_chain.invoke({"input": text},

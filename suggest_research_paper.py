@@ -58,3 +58,5 @@ class Suggest_research_paper_bot():
     prompt_test = ChatPromptTemplate.from_messages([("human", message)])
 
     rag_chain = {"context": retriever_search, "question": RunnablePassthrough()} | prompt_test | model
+
+    
